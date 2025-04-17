@@ -1,0 +1,1001 @@
+Brand,Perfume Name,Fragrance Notes,Price (USD),Gender,Rating,Bottle Size (ml),Stock Quantity,Launch Year
+Dior,Spice Trail,UNKNOWN,167.86,Unisex,4.7,50,207,2002.0
+Versace,Musk Haven,"Rose, Oud, Patchouli",165.68,Unisex,4.7,100,324,1999.0
+Tom Ford,Citrus Splash,"Aquatic, Marine, Ambergris",198.52,Male,4.6,75,151,2010.0
+Prada,Velvet Rose,"Cinnamon, Clove, Vetiver",166.31,Male,4.2,150,187,2020.0
+Dior,Velvet Rose,"Rose, Oud, Patchouli",282.28,Female,3.5,150,499,2006.0
+Prada,Citrus Splash,"Green Tea, Mint, Lemon",272.8,Unisex,3.7,200,443,1997.0
+Hermès,Ocean Breeze,"Cedarwood, Leather, Tobacco",191.9,Male,4.3,200,472,2006.0
+Chanel,Velvet Rose,"Fruity, Sweet, Vanilla",206.63,Male,3.2,75,176,2015.0
+Versace,Midnight Bloom,"Fruity, Sweet, Vanilla",123.61,Male,4.6,30,51,1992.0
+Hermès,Amber Mystique,"Woody, Spicy, Amber",248.15,Male,4.0,30,307,2023.0
+Givenchy,Amber Mystique,"Cinnamon, Clove, Vetiver",49.33,Unisex,3.9,200,138,1990.0
+YSL,Jasmine Bliss,"Cinnamon, Clove, Vetiver",221.99,Unisex,4.1,100,138,2024.0
+Armani,Amber Mystique,0,48.02,Male,4.3,75,247,2002.0
+Gucci,Spice Trail,"Woody, Spicy, Amber",112.73,Unisex,3.2,100,357,2001.0
+Hermès,Musk Haven,"Fruity, Sweet, Vanilla",207.16,Male,3.9,200,239,2001.0
+YSL,Musk Haven,"Green Tea, Mint, Lemon",108.62,Male,0.0,200,240,1998.0
+YSL,Jasmine Bliss,"Rose, Oud, Patchouli",173.47,Female,4.3,50,213,2005.0
+Hermès,Ocean Breeze,"Woody, Spicy, Amber",123.92,Unisex,4.8,100,98,2020.0
+YSL,Musk Haven,"Green Tea, Mint, Lemon",178.24,Male,4.9,30,112,2017.0
+YSL,Spice Trail,"Cinnamon, Clove, Vetiver",251.67,Female,4.6,200,161,2006.0
+Dior,Amber Mystique,"Lavender, Sandalwood, Bergamot",266.77,Female,3.4,200,441,1996.0
+Givenchy,Velvet Rose,"Lavender, Sandalwood, Bergamot",271.8,Male,3.5,100,308,1991.0
+Hermès,Woody Essence,"Woody, Spicy, Amber",64.19,Female,3.1,30,197,1994.0
+Chanel,Spice Trail,"Green Tea, Mint, Lemon",75.33,Unisex,4.3,75,140,2019.0
+YSL,Ocean Breeze,"Jasmine, Ylang Ylang, Vanilla",77.71,Female,5.0,75,252,2001.0
+YSL,Citrus Splash,"Cinnamon, Clove, Vetiver",261.43,Unisex,4.1,150,87,2022.0
+Versace,Velvet Rose,"Citrus, Floral, Musk",50.23,Male,3.4,50,260,2003.0
+Versace,Euphoria,"Cedarwood, Leather, Tobacco",268.81,Male,4.5,75,407,1998.0
+Hermès,Ocean Breeze,"Citrus, Floral, Musk",253.95,Male,4.8,30,148,2002.0
+Givenchy,Midnight Bloom,"Cinnamon, Clove, Vetiver",281.84,Female,4.1,30,386,2023.0
+Versace,Musk Haven,"Jasmine, Ylang Ylang, Vanilla",75.84,Unisex,4.7,150,290,1997.0
+Versace,Midnight Bloom,"Fruity, Sweet, Vanilla",55.8,Male,3.2,200,141,2009.0
+Gucci,Citrus Splash,"Aquatic, Marine, Ambergris",239.79,Unisex,3.6,30,334,2010.0
+Versace,Amber Mystique,"Jasmine, Ylang Ylang, Vanilla",121.58,Male,4.0,50,478,2012.0
+Gucci,Woody Essence,"Green Tea, Mint, Lemon",280.59,Female,4.7,100,498,2016.0
+Armani,Woody Essence,"Lavender, Sandalwood, Bergamot",157.36,Female,3.6,150,381,2016.0
+Hermès,Ocean Breeze,"Aquatic, Marine, Ambergris",97.05,Male,0.0,30,43,1993.0
+Hermès,Midnight Bloom,"Jasmine, Ylang Ylang, Vanilla",247.7,Female,3.2,100,129,2019.0
+YSL,Amber Mystique,"Cedarwood, Leather, Tobacco",218.77,Unisex,3.8,30,319,1997.0
+Dior,Ocean Breeze,"Cinnamon, Clove, Vetiver",248.65,Female,3.2,100,480,2007.0
+Chanel,Ocean Breeze,"Rose, Oud, Patchouli",82.29,Male,4.4,30,381,1994.0
+Versace,Citrus Splash,"Lavender, Sandalwood, Bergamot",75.95,Female,3.6,100,380,2005.0
+Prada,Velvet Rose,"Fruity, Sweet, Vanilla",78.2,Unisex,4.6,150,6,2020.0
+Dior,Spice Trail,"Lavender, Sandalwood, Bergamot",186.67,Unisex,4.5,75,281,1991.0
+Tom Ford,Jasmine Bliss,"Cedarwood, Leather, Tobacco",177.05,Unisex,4.4,150,495,2019.0
+Chanel,Citrus Splash,"Fruity, Sweet, Vanilla",166.59,Female,3.1,50,421,2007.0
+Hermès,Euphoria,"Jasmine, Ylang Ylang, Vanilla",232.36,Female,3.7,50,209,2013.0
+Versace,Spice Trail,"Jasmine, Ylang Ylang, Vanilla",121.68,Female,3.7,100,375,2014.0
+Hermès,Ocean Breeze,"Cedarwood, Leather, Tobacco",256.7,Unisex,3.4,200,417,2012.0
+Versace,Ocean Breeze,"Woody, Spicy, Amber",35.11,Unisex,4.9,100,239,2016.0
+Versace,Citrus Splash,"Citrus, Floral, Musk",225.55,Unisex,4.0,200,140,2001.0
+Prada,Musk Haven,"Green Tea, Mint, Lemon",229.24,Female,3.0,75,159,2005.0
+Versace,Ocean Breeze,"Fruity, Sweet, Vanilla",296.16,Female,4.2,30,417,2000.0
+Armani,Euphoria,"Cedarwood, Leather, Tobacco",62.62,Unisex,3.0,150,422,2006.0
+Givenchy,Jasmine Bliss,"Cedarwood, Leather, Tobacco",39.55,Unisex,3.1,50,366,2023.0
+Givenchy,Woody Essence,"Fruity, Sweet, Vanilla",41.08,Female,4.5,30,442,2013.0
+Prada,Velvet Rose,"Cedarwood, Leather, Tobacco",53.85,Unisex,4.5,30,241,2007.0
+YSL,Euphoria,"Green Tea, Mint, Lemon",248.45,Male,4.5,200,158,2004.0
+Tom Ford,Musk Haven,"Lavender, Sandalwood, Bergamot",49.52,Unisex,4.0,30,93,2006.0
+Hermès,Spice Trail,"Cinnamon, Clove, Vetiver",70.06,Female,3.3,50,41,1991.0
+Gucci,Midnight Bloom,"Aquatic, Marine, Ambergris",218.01,Female,4.9,30,183,2012.0
+Givenchy,Musk Haven,"Rose, Oud, Patchouli",286.48,Unisex,4.6,100,335,1996.0
+Chanel,Midnight Bloom,"Cinnamon, Clove, Vetiver",124.04,Male,4.6,200,304,2007.0
+Chanel,Spice Trail,"Lavender, Sandalwood, Bergamot",245.58,Female,4.0,30,345,1994.0
+Chanel,Amber Mystique,"Rose, Oud, Patchouli",248.81,Unisex,4.6,200,362,1992.0
+Chanel,Citrus Splash,"Green Tea, Mint, Lemon",299.39,Female,3.7,30,174,2007.0
+Chanel,Euphoria,"Green Tea, Mint, Lemon",189.08,Unisex,4.9,100,343,2015.0
+Prada,Velvet Rose,"Cinnamon, Clove, Vetiver",130.84,Male,3.9,50,195,2013.0
+Versace,Citrus Splash,"Cinnamon, Clove, Vetiver",53.69,Female,0.0,200,454,2014.0
+Dior,Midnight Bloom,"Cedarwood, Leather, Tobacco",245.43,Female,4.7,200,201,2003.0
+YSL,Spice Trail,"Aquatic, Marine, Ambergris",99.06,Male,4.6,150,467,2009.0
+YSL,Spice Trail,"Jasmine, Ylang Ylang, Vanilla",265.39,Unisex,3.7,100,425,2021.0
+Versace,Woody Essence,"Jasmine, Ylang Ylang, Vanilla",284.0,Male,4.7,75,83,2014.0
+Prada,Spice Trail,"Cinnamon, Clove, Vetiver",124.85,Unisex,3.0,50,19,2010.0
+Hermès,Jasmine Bliss,"Green Tea, Mint, Lemon",249.39,Male,3.1,30,218,2019.0
+Hermès,Midnight Bloom,"Citrus, Floral, Musk",259.51,Male,3.7,50,312,2022.0
+Gucci,Euphoria,"Lavender, Sandalwood, Bergamot",39.31,Female,3.4,200,59,2022.0
+Prada,Spice Trail,"Green Tea, Mint, Lemon",160.64,Unisex,3.9,30,183,2016.0
+Armani,Velvet Rose,"Fruity, Sweet, Vanilla",276.95,Male,3.5,50,304,2013.0
+Dior,Ocean Breeze,"Aquatic, Marine, Ambergris",128.25,Unisex,4.2,75,189,2014.0
+Armani,Midnight Bloom,"Citrus, Floral, Musk",110.35,Female,3.7,50,135,2002.0
+Prada,Amber Mystique,"Aquatic, Marine, Ambergris",43.64,Male,4.7,30,378,2004.0
+Givenchy,Citrus Splash,"Fruity, Sweet, Vanilla",105.69,Unisex,3.8,30,41,1993.0
+YSL,Velvet Rose,"Rose, Oud, Patchouli",128.84,Unisex,3.0,150,271,1995.0
+Dior,Woody Essence,"Rose, Oud, Patchouli",147.0,Unisex,4.1,150,484,2005.0
+Prada,Woody Essence,"Lavender, Sandalwood, Bergamot",172.11,Unisex,3.8,75,82,2014.0
+Gucci,Midnight Bloom,"Fruity, Sweet, Vanilla",285.25,Male,4.9,30,263,1999.0
+Tom Ford,Spice Trail,"Lavender, Sandalwood, Bergamot",147.4,Unisex,4.9,150,233,1994.0
+YSL,Spice Trail,"Jasmine, Ylang Ylang, Vanilla",143.59,Male,3.8,50,450,2016.0
+Chanel,Jasmine Bliss,"Aquatic, Marine, Ambergris",162.68,Male,4.1,30,456,1998.0
+Armani,Ocean Breeze,"Green Tea, Mint, Lemon",156.26,Female,3.4,50,275,2003.0
+YSL,Citrus Splash,"Lavender, Sandalwood, Bergamot",171.88,Unisex,0.0,75,120,2012.0
+Givenchy,Jasmine Bliss,"Cedarwood, Leather, Tobacco",37.27,Female,4.1,30,320,1997.0
+Armani,Midnight Bloom,"Cedarwood, Leather, Tobacco",118.39,Unisex,4.0,150,178,1995.0
+Armani,Velvet Rose,"Green Tea, Mint, Lemon",49.32,Male,4.4,100,87,2000.0
+Tom Ford,Citrus Splash,"Jasmine, Ylang Ylang, Vanilla",239.75,Female,3.3,50,252,2005.0
+Armani,Amber Mystique,"Jasmine, Ylang Ylang, Vanilla",277.57,Unisex,4.2,150,381,2004.0
+Dior,Woody Essence,"Fruity, Sweet, Vanilla",297.67,Female,5.0,30,61,2016.0
+Armani,Midnight Bloom,"Woody, Spicy, Amber",220.99,Male,3.1,30,95,2019.0
+Prada,Woody Essence,"Rose, Oud, Patchouli",269.03,Female,5.0,100,361,2016.0
+Gucci,Woody Essence,"Rose, Oud, Patchouli",163.37,Female,4.4,150,117,1993.0
+Tom Ford,Velvet Rose,"Woody, Spicy, Amber",167.97,Unisex,4.3,30,500,2009.0
+Hermès,Spice Trail,"Jasmine, Ylang Ylang, Vanilla",69.62,Unisex,3.5,30,447,2019.0
+Armani,Midnight Bloom,"Lavender, Sandalwood, Bergamot",57.79,Male,3.3,50,166,2023.0
+YSL,Spice Trail,"Fruity, Sweet, Vanilla",222.5,Unisex,4.3,200,163,2018.0
+Prada,Midnight Bloom,"Lavender, Sandalwood, Bergamot",36.97,Male,4.9,150,20,2003.0
+Tom Ford,Jasmine Bliss,"Cinnamon, Clove, Vetiver",91.66,Female,4.3,50,258,1991.0
+Chanel,Jasmine Bliss,"Aquatic, Marine, Ambergris",186.51,Male,3.5,200,87,2022.0
+YSL,Spice Trail,"Citrus, Floral, Musk",71.6,Female,3.7,30,410,2004.0
+Tom Ford,Midnight Bloom,"Aquatic, Marine, Ambergris",248.17,Female,0.0,30,316,2017.0
+Hermès,Spice Trail,"Aquatic, Marine, Ambergris",133.97,Male,4.1,100,199,1997.0
+Chanel,Jasmine Bliss,"Lavender, Sandalwood, Bergamot",192.3,Male,4.7,50,293,2004.0
+Chanel,Citrus Splash,"Cedarwood, Leather, Tobacco",280.98,Female,4.8,75,60,2014.0
+Chanel,Jasmine Bliss,"Cedarwood, Leather, Tobacco",250.48,Unisex,4.8,100,335,2014.0
+YSL,Ocean Breeze,"Rose, Oud, Patchouli",235.2,Male,3.5,100,15,2002.0
+Armani,Ocean Breeze,"Cedarwood, Leather, Tobacco",265.01,Male,4.3,200,469,2004.0
+Dior,Citrus Splash,"Cedarwood, Leather, Tobacco",90.77,Unisex,4.0,150,219,2002.0
+Chanel,Ocean Breeze,"Jasmine, Ylang Ylang, Vanilla",298.26,Unisex,3.8,150,24,2015.0
+Gucci,Ocean Breeze,"Rose, Oud, Patchouli",112.69,Male,4.7,50,465,2011.0
+Armani,Euphoria,"Green Tea, Mint, Lemon",84.94,Male,4.1,75,475,2001.0
+Givenchy,Jasmine Bliss,"Jasmine, Ylang Ylang, Vanilla",65.69,Male,3.7,150,26,2024.0
+Chanel,Woody Essence,"Green Tea, Mint, Lemon",64.09,Unisex,3.5,100,24,2004.0
+Dior,Musk Haven,"Rose, Oud, Patchouli",172.77,Male,3.8,30,164,2011.0
+Chanel,Amber Mystique,"Jasmine, Ylang Ylang, Vanilla",115.02,Unisex,3.6,75,198,2019.0
+Givenchy,Jasmine Bliss,"Green Tea, Mint, Lemon",224.66,Female,4.7,30,292,2000.0
+Gucci,Ocean Breeze,"Cedarwood, Leather, Tobacco",174.16,Female,3.6,30,486,2004.0
+YSL,Musk Haven,"Aquatic, Marine, Ambergris",107.8,Unisex,3.2,75,103,1992.0
+Tom Ford,Amber Mystique,"Cinnamon, Clove, Vetiver",179.79,Female,4.9,200,170,2017.0
+YSL,Woody Essence,"Rose, Oud, Patchouli",44.05,Male,3.6,200,104,2014.0
+YSL,Midnight Bloom,"Citrus, Floral, Musk",198.68,Female,4.6,100,473,2016.0
+Armani,Spice Trail,"Citrus, Floral, Musk",30.5,Male,4.4,30,41,1993.0
+Hermès,Ocean Breeze,"Cinnamon, Clove, Vetiver",90.98,Unisex,4.7,75,422,2008.0
+Gucci,Woody Essence,"Green Tea, Mint, Lemon",296.17,Male,4.0,200,245,1991.0
+Givenchy,Euphoria,"Aquatic, Marine, Ambergris",259.29,Male,3.6,75,362,2005.0
+Prada,Citrus Splash,"Lavender, Sandalwood, Bergamot",194.47,Unisex,3.2,30,343,2016.0
+Gucci,Midnight Bloom,"Jasmine, Ylang Ylang, Vanilla",105.44,Male,4.3,100,431,2021.0
+Gucci,Amber Mystique,"Lavender, Sandalwood, Bergamot",83.91,Unisex,4.2,50,109,2000.0
+Dior,Woody Essence,"Fruity, Sweet, Vanilla",286.53,Male,3.8,30,315,2022.0
+Armani,Jasmine Bliss,"Rose, Oud, Patchouli",155.94,Female,3.2,150,139,2002.0
+YSL,Citrus Splash,"Woody, Spicy, Amber",119.83,Male,4.5,150,489,2018.0
+Dior,Woody Essence,"Green Tea, Mint, Lemon",94.23,Unisex,3.3,50,368,2019.0
+Givenchy,Midnight Bloom,"Cedarwood, Leather, Tobacco",286.27,Unisex,4.1,150,357,2001.0
+Versace,Velvet Rose,"Rose, Oud, Patchouli",139.99,Male,4.1,150,163,2022.0
+Chanel,Euphoria,"Rose, Oud, Patchouli",152.64,Female,4.4,30,439,2020.0
+Dior,Midnight Bloom,"Cedarwood, Leather, Tobacco",61.87,Male,4.6,30,491,2018.0
+Armani,Woody Essence,"Jasmine, Ylang Ylang, Vanilla",167.42,Female,4.6,50,262,2009.0
+Dior,Jasmine Bliss,"Jasmine, Ylang Ylang, Vanilla",188.13,Female,4.8,75,287,1993.0
+Versace,Velvet Rose,"Cedarwood, Leather, Tobacco",166.39,Male,4.0,200,102,2001.0
+Prada,Spice Trail,"Rose, Oud, Patchouli",166.37,Male,3.1,200,349,2021.0
+Armani,Velvet Rose,"Cedarwood, Leather, Tobacco",79.59,Male,3.5,50,312,2000.0
+Chanel,Amber Mystique,"Lavender, Sandalwood, Bergamot",280.46,Female,3.1,200,182,1990.0
+Prada,Ocean Breeze,"Green Tea, Mint, Lemon",282.72,Male,3.2,75,216,2014.0
+Hermès,Musk Haven,"Green Tea, Mint, Lemon",245.91,Male,4.3,75,169,2024.0
+Hermès,Citrus Splash,"Woody, Spicy, Amber",166.84,Unisex,4.5,30,413,1994.0
+Gucci,Ocean Breeze,"Lavender, Sandalwood, Bergamot",243.02,Male,4.0,30,230,1998.0
+Armani,Midnight Bloom,"Citrus, Floral, Musk",33.28,Female,4.1,100,306,2016.0
+Tom Ford,Velvet Rose,"Cinnamon, Clove, Vetiver",86.82,Female,4.0,100,1,1993.0
+Prada,Woody Essence,"Green Tea, Mint, Lemon",144.94,Male,4.0,100,376,2005.0
+Chanel,Midnight Bloom,"Fruity, Sweet, Vanilla",204.32,Female,3.4,30,148,2020.0
+Hermès,Jasmine Bliss,"Cinnamon, Clove, Vetiver",114.1,Unisex,3.0,30,492,2014.0
+Versace,Amber Mystique,"Rose, Oud, Patchouli",264.45,Unisex,3.5,200,398,1991.0
+Prada,Velvet Rose,"Aquatic, Marine, Ambergris",198.51,Male,3.1,50,347,2008.0
+Armani,Ocean Breeze,"Rose, Oud, Patchouli",60.9,Male,4.2,200,318,2022.0
+Tom Ford,Euphoria,"Lavender, Sandalwood, Bergamot",168.66,Female,3.2,50,351,2011.0
+Armani,Amber Mystique,"Green Tea, Mint, Lemon",190.6,Female,3.2,50,373,2015.0
+Versace,Musk Haven,"Rose, Oud, Patchouli",270.52,Female,4.4,200,274,2015.0
+Dior,Ocean Breeze,"Green Tea, Mint, Lemon",280.43,Male,3.5,200,446,1996.0
+Hermès,Amber Mystique,"Woody, Spicy, Amber",129.51,Female,4.7,50,361,1990.0
+Tom Ford,Citrus Splash,"Aquatic, Marine, Ambergris",154.8,Male,3.5,150,351,1997.0
+Givenchy,Euphoria,"Aquatic, Marine, Ambergris",179.58,Female,3.3,100,183,1992.0
+Dior,Musk Haven,"Green Tea, Mint, Lemon",94.48,Male,4.5,30,47,2008.0
+Chanel,Jasmine Bliss,"Cinnamon, Clove, Vetiver",257.08,Male,3.1,75,193,2004.0
+Chanel,Woody Essence,"Fruity, Sweet, Vanilla",98.5,Male,5.0,75,159,2011.0
+YSL,Amber Mystique,"Rose, Oud, Patchouli",186.24,Male,3.3,30,167,2019.0
+Dior,Ocean Breeze,"Jasmine, Ylang Ylang, Vanilla",120.3,Male,3.5,150,352,2007.0
+Chanel,Midnight Bloom,"Fruity, Sweet, Vanilla",157.33,Female,4.6,30,35,2015.0
+YSL,Woody Essence,"Woody, Spicy, Amber",274.77,Unisex,5.0,200,55,2008.0
+Tom Ford,Jasmine Bliss,"Cinnamon, Clove, Vetiver",293.17,Female,4.3,150,395,1990.0
+YSL,Velvet Rose,"Green Tea, Mint, Lemon",65.66,Male,4.5,30,90,2017.0
+Chanel,Euphoria,"Woody, Spicy, Amber",79.44,Female,4.4,100,233,2021.0
+Hermès,Citrus Splash,"Cedarwood, Leather, Tobacco",226.02,Female,3.2,100,213,2016.0
+Versace,Spice Trail,"Rose, Oud, Patchouli",69.49,Female,4.7,200,107,2024.0
+Gucci,Amber Mystique,"Citrus, Floral, Musk",180.79,Male,4.4,150,296,2018.0
+Hermès,Velvet Rose,"Aquatic, Marine, Ambergris",170.08,Male,4.2,75,159,2012.0
+Dior,Citrus Splash,"Jasmine, Ylang Ylang, Vanilla",272.58,Male,4.0,150,484,2016.0
+Versace,Woody Essence,"Aquatic, Marine, Ambergris",264.56,Female,4.4,50,40,1998.0
+Armani,Jasmine Bliss,"Citrus, Floral, Musk",104.64,Male,4.5,50,317,2022.0
+Chanel,Amber Mystique,"Aquatic, Marine, Ambergris",281.07,Male,4.4,30,410,2008.0
+YSL,Euphoria,"Woody, Spicy, Amber",202.84,Unisex,3.4,75,427,2021.0
+Hermès,Spice Trail,"Fruity, Sweet, Vanilla",220.3,Unisex,4.1,30,369,1999.0
+Tom Ford,Woody Essence,"Lavender, Sandalwood, Bergamot",198.98,Unisex,3.0,150,431,1995.0
+Versace,Musk Haven,"Jasmine, Ylang Ylang, Vanilla",51.36,Female,4.3,200,10,2011.0
+Givenchy,Musk Haven,"Aquatic, Marine, Ambergris",227.08,Female,3.1,75,371,1991.0
+Tom Ford,Spice Trail,"Jasmine, Ylang Ylang, Vanilla",232.49,Unisex,4.3,30,55,2022.0
+Gucci,Euphoria,"Aquatic, Marine, Ambergris",186.65,Female,4.0,75,169,2016.0
+Prada,Midnight Bloom,"Jasmine, Ylang Ylang, Vanilla",100.69,Female,3.3,50,232,1990.0
+Prada,Velvet Rose,"Aquatic, Marine, Ambergris",178.34,Unisex,0.0,100,244,2022.0
+Hermès,Euphoria,"Cinnamon, Clove, Vetiver",97.55,Female,3.4,75,61,2005.0
+Givenchy,Spice Trail,"Jasmine, Ylang Ylang, Vanilla",278.62,Male,4.0,50,307,2009.0
+Prada,Jasmine Bliss,"Fruity, Sweet, Vanilla",47.44,Female,4.9,75,76,1999.0
+Prada,Euphoria,"Cinnamon, Clove, Vetiver",268.55,Female,4.6,200,485,1994.0
+Dior,Woody Essence,"Rose, Oud, Patchouli",197.54,Male,3.0,100,445,2012.0
+Armani,Ocean Breeze,"Woody, Spicy, Amber",198.44,Unisex,4.6,200,305,2015.0
+Hermès,Ocean Breeze,"Rose, Oud, Patchouli",79.9,Unisex,3.6,75,382,2020.0
+Givenchy,Citrus Splash,"Cinnamon, Clove, Vetiver",41.37,Male,3.5,150,114,2019.0
+Prada,Jasmine Bliss,"Jasmine, Ylang Ylang, Vanilla",197.25,Female,3.1,50,219,2023.0
+Prada,Woody Essence,"Green Tea, Mint, Lemon",46.94,Unisex,3.8,75,69,2000.0
+Armani,Spice Trail,"Fruity, Sweet, Vanilla",277.71,Male,4.5,75,223,1999.0
+Prada,Citrus Splash,"Woody, Spicy, Amber",180.44,Male,3.9,30,345,1995.0
+Gucci,Spice Trail,"Aquatic, Marine, Ambergris",122.87,Female,3.9,150,40,2019.0
+Versace,Euphoria,"Cinnamon, Clove, Vetiver",79.37,Female,4.3,50,482,1990.0
+Armani,Velvet Rose,"Aquatic, Marine, Ambergris",66.14,Male,3.6,50,296,2015.0
+YSL,Euphoria,"Jasmine, Ylang Ylang, Vanilla",250.2,Unisex,5.0,200,16,2000.0
+Armani,Spice Trail,"Rose, Oud, Patchouli",243.8,Male,4.7,75,475,2011.0
+Hermès,Velvet Rose,"Lavender, Sandalwood, Bergamot",42.65,Male,3.6,30,53,2011.0
+Chanel,Musk Haven,"Rose, Oud, Patchouli",168.6,Female,4.5,200,154,1992.0
+Prada,Woody Essence,"Fruity, Sweet, Vanilla",164.94,Female,3.2,100,358,2001.0
+YSL,Amber Mystique,"Citrus, Floral, Musk",239.28,Male,3.3,50,330,2009.0
+Tom Ford,Citrus Splash,"Woody, Spicy, Amber",105.36,Unisex,4.0,200,221,2007.0
+Hermès,Jasmine Bliss,"Woody, Spicy, Amber",260.94,Female,3.7,75,369,2008.0
+Prada,Midnight Bloom,"Jasmine, Ylang Ylang, Vanilla",144.15,Male,4.7,150,281,2016.0
+Chanel,Citrus Splash,"Woody, Spicy, Amber",265.09,Male,4.6,50,383,2023.0
+Prada,Amber Mystique,"Cinnamon, Clove, Vetiver",158.11,Female,4.3,100,301,2011.0
+Tom Ford,Spice Trail,"Woody, Spicy, Amber",44.57,Unisex,4.7,75,209,2013.0
+Dior,Velvet Rose,"Green Tea, Mint, Lemon",217.71,Male,3.6,30,201,2021.0
+Hermès,Ocean Breeze,"Green Tea, Mint, Lemon",251.88,Unisex,3.5,200,158,1994.0
+Hermès,Musk Haven,"Green Tea, Mint, Lemon",212.39,Female,3.2,30,345,1996.0
+Gucci,Ocean Breeze,"Fruity, Sweet, Vanilla",60.3,Female,4.4,50,382,2019.0
+Gucci,Ocean Breeze,"Fruity, Sweet, Vanilla",280.98,Male,4.1,30,280,2006.0
+Prada,Euphoria,"Fruity, Sweet, Vanilla",86.14,Unisex,4.7,50,156,1999.0
+Dior,Amber Mystique,"Jasmine, Ylang Ylang, Vanilla",48.28,Male,3.9,50,262,2010.0
+YSL,Citrus Splash,"Aquatic, Marine, Ambergris",239.79,Unisex,4.1,200,355,2007.0
+Chanel,Velvet Rose,"Woody, Spicy, Amber",123.72,Male,4.2,50,479,2007.0
+Prada,Spice Trail,"Green Tea, Mint, Lemon",257.27,Male,4.7,150,320,1998.0
+Givenchy,Woody Essence,"Rose, Oud, Patchouli",171.56,Male,4.7,150,76,2012.0
+Tom Ford,Musk Haven,"Cedarwood, Leather, Tobacco",66.48,Female,4.6,200,244,2013.0
+Prada,Amber Mystique,"Cinnamon, Clove, Vetiver",53.17,Female,4.1,30,443,1994.0
+Prada,Spice Trail,"Fruity, Sweet, Vanilla",51.57,Male,3.9,30,209,1990.0
+Gucci,Musk Haven,"Rose, Oud, Patchouli",165.38,Unisex,3.3,200,56,2001.0
+Givenchy,Musk Haven,"Woody, Spicy, Amber",248.9,Male,3.1,50,333,1993.0
+YSL,Jasmine Bliss,"Woody, Spicy, Amber",105.75,Male,4.4,75,333,2006.0
+Versace,Citrus Splash,"Cinnamon, Clove, Vetiver",83.19,Female,4.6,30,289,2023.0
+Tom Ford,Euphoria,"Citrus, Floral, Musk",33.15,Male,4.2,150,117,1996.0
+Gucci,Musk Haven,"Woody, Spicy, Amber",168.31,Male,3.0,50,41,2016.0
+Versace,Citrus Splash,"Fruity, Sweet, Vanilla",131.69,Female,3.9,200,440,2012.0
+Hermès,Velvet Rose,"Rose, Oud, Patchouli",166.1,Unisex,4.6,100,482,2008.0
+Versace,Citrus Splash,"Rose, Oud, Patchouli",101.75,Unisex,4.4,30,85,2010.0
+Tom Ford,Amber Mystique,"Cinnamon, Clove, Vetiver",296.04,Female,3.9,30,131,2020.0
+Hermès,Euphoria,"Fruity, Sweet, Vanilla",215.18,Unisex,4.6,75,96,2003.0
+Gucci,Jasmine Bliss,"Woody, Spicy, Amber",266.13,Unisex,4.5,30,401,1990.0
+Tom Ford,Midnight Bloom,"Cinnamon, Clove, Vetiver",241.32,Female,4.6,150,298,2014.0
+Versace,Euphoria,"Lavender, Sandalwood, Bergamot",106.35,Unisex,4.0,100,21,2002.0
+Dior,Spice Trail,"Cinnamon, Clove, Vetiver",72.11,Unisex,3.3,100,92,2018.0
+YSL,Velvet Rose,"Jasmine, Ylang Ylang, Vanilla",65.71,Unisex,4.6,75,455,1998.0
+Hermès,Spice Trail,"Lavender, Sandalwood, Bergamot",86.37,Unisex,4.0,200,124,2001.0
+Hermès,Citrus Splash,"Cedarwood, Leather, Tobacco",112.12,Unisex,4.9,50,366,2002.0
+Gucci,Amber Mystique,"Cedarwood, Leather, Tobacco",62.92,Male,3.7,75,325,1995.0
+YSL,Ocean Breeze,"Fruity, Sweet, Vanilla",98.14,Female,3.9,50,309,2007.0
+Dior,Musk Haven,"Cinnamon, Clove, Vetiver",192.75,Unisex,4.6,100,38,2019.0
+Prada,Woody Essence,"Green Tea, Mint, Lemon",244.05,Female,4.0,30,28,2006.0
+Givenchy,Velvet Rose,"Lavender, Sandalwood, Bergamot",99.19,Unisex,3.8,200,381,2003.0
+Givenchy,Velvet Rose,"Cinnamon, Clove, Vetiver",276.15,Female,4.6,150,316,2010.0
+Givenchy,Euphoria,"Rose, Oud, Patchouli",200.21,Unisex,4.1,50,197,2016.0
+Tom Ford,Euphoria,"Rose, Oud, Patchouli",182.36,Unisex,4.3,50,351,2015.0
+Tom Ford,Euphoria,"Green Tea, Mint, Lemon",127.05,Male,3.8,200,54,2014.0
+Dior,Velvet Rose,"Woody, Spicy, Amber",298.76,Male,3.6,100,390,2006.0
+Prada,Midnight Bloom,"Cedarwood, Leather, Tobacco",268.78,Unisex,4.0,100,156,2008.0
+Armani,Musk Haven,"Jasmine, Ylang Ylang, Vanilla",176.92,Unisex,4.3,200,64,1992.0
+Prada,Woody Essence,"Green Tea, Mint, Lemon",256.72,Unisex,3.1,75,167,2002.0
+Gucci,Citrus Splash,"Rose, Oud, Patchouli",274.3,Unisex,4.7,75,0,2000.0
+Armani,Euphoria,"Aquatic, Marine, Ambergris",120.57,Male,4.1,50,59,1992.0
+Armani,Midnight Bloom,"Fruity, Sweet, Vanilla",34.74,Female,3.3,150,151,2012.0
+Chanel,Jasmine Bliss,"Citrus, Floral, Musk",172.81,Female,4.3,150,22,1995.0
+Chanel,Velvet Rose,"Aquatic, Marine, Ambergris",90.95,Unisex,3.8,50,115,2017.0
+Tom Ford,Ocean Breeze,"Lavender, Sandalwood, Bergamot",153.86,Female,4.5,150,76,2021.0
+Dior,Woody Essence,"Woody, Spicy, Amber",125.41,Female,4.7,50,284,1991.0
+Tom Ford,Spice Trail,"Green Tea, Mint, Lemon",67.26,Unisex,3.4,100,27,2003.0
+Versace,Spice Trail,"Aquatic, Marine, Ambergris",86.64,Unisex,4.9,75,87,2012.0
+Gucci,Amber Mystique,"Rose, Oud, Patchouli",120.05,Female,3.1,50,386,2014.0
+Armani,Euphoria,"Fruity, Sweet, Vanilla",64.35,Unisex,4.3,200,83,1996.0
+Versace,Euphoria,"Rose, Oud, Patchouli",45.29,Male,3.7,100,391,2001.0
+Chanel,Ocean Breeze,"Cedarwood, Leather, Tobacco",222.75,Female,3.3,150,215,2009.0
+Gucci,Euphoria,"Cedarwood, Leather, Tobacco",143.55,Female,3.4,200,42,2021.0
+YSL,Euphoria,"Jasmine, Ylang Ylang, Vanilla",105.75,Male,4.6,75,323,1999.0
+Chanel,Spice Trail,"Lavender, Sandalwood, Bergamot",119.2,Male,3.1,100,438,2022.0
+YSL,Velvet Rose,"Rose, Oud, Patchouli",156.97,Unisex,4.0,30,393,2011.0
+Prada,Euphoria,"Woody, Spicy, Amber",41.68,Unisex,4.4,150,415,2007.0
+Chanel,Velvet Rose,"Green Tea, Mint, Lemon",295.93,Male,4.6,75,412,2024.0
+Chanel,Spice Trail,"Rose, Oud, Patchouli",132.29,Unisex,3.8,200,200,2022.0
+Versace,Midnight Bloom,"Cinnamon, Clove, Vetiver",33.48,Male,3.3,100,159,1997.0
+Versace,Ocean Breeze,"Lavender, Sandalwood, Bergamot",63.15,Male,4.7,50,221,1997.0
+Armani,Euphoria,"Woody, Spicy, Amber",157.68,Male,4.9,200,134,2017.0
+Gucci,Jasmine Bliss,"Woody, Spicy, Amber",70.38,Male,4.5,75,109,2023.0
+Chanel,Citrus Splash,"Rose, Oud, Patchouli",97.07,Unisex,3.3,50,43,2022.0
+Gucci,Euphoria,"Rose, Oud, Patchouli",299.76,Unisex,3.1,200,308,1998.0
+Hermès,Amber Mystique,"Aquatic, Marine, Ambergris",209.17,Unisex,4.3,30,14,2014.0
+Chanel,Ocean Breeze,"Citrus, Floral, Musk",224.41,Male,4.1,150,239,1998.0
+Chanel,Amber Mystique,"Rose, Oud, Patchouli",205.31,Female,3.7,30,169,2003.0
+Givenchy,Musk Haven,"Aquatic, Marine, Ambergris",227.02,Male,4.7,30,402,1997.0
+Gucci,Spice Trail,"Lavender, Sandalwood, Bergamot",298.26,Male,4.1,100,335,2008.0
+Gucci,Spice Trail,"Cinnamon, Clove, Vetiver",187.73,Male,3.7,30,111,2008.0
+Versace,Citrus Splash,"Jasmine, Ylang Ylang, Vanilla",79.44,Female,5.0,30,308,2007.0
+YSL,Amber Mystique,"Fruity, Sweet, Vanilla",177.81,Male,3.4,50,201,1990.0
+Tom Ford,Euphoria,"Citrus, Floral, Musk",94.26,Female,3.0,75,129,2022.0
+Givenchy,Musk Haven,"Green Tea, Mint, Lemon",277.79,Unisex,3.3,30,35,2012.0
+YSL,Velvet Rose,UNKNOWN,165.68,Male,4.6,100,368,2021.0
+Hermès,Euphoria,"Jasmine, Ylang Ylang, Vanilla",37.95,Unisex,4.3,50,238,2024.0
+Versace,Citrus Splash,"Lavender, Sandalwood, Bergamot",183.2,Unisex,3.6,75,219,2008.0
+Prada,Citrus Splash,"Aquatic, Marine, Ambergris",229.01,Female,4.9,50,15,2013.0
+Gucci,Jasmine Bliss,"Woody, Spicy, Amber",255.89,Male,4.0,100,411,2002.0
+Chanel,Midnight Bloom,"Cedarwood, Leather, Tobacco",136.33,Female,0.0,50,197,2016.0
+Dior,Ocean Breeze,"Aquatic, Marine, Ambergris",224.29,Unisex,3.6,150,154,1993.0
+Prada,Spice Trail,"Citrus, Floral, Musk",74.72,Unisex,3.3,100,173,2019.0
+Hermès,Citrus Splash,"Woody, Spicy, Amber",227.32,Unisex,4.1,150,483,2018.0
+Tom Ford,Jasmine Bliss,"Rose, Oud, Patchouli",276.49,Male,3.9,150,209,2016.0
+Prada,Citrus Splash,"Green Tea, Mint, Lemon",158.42,Male,3.7,100,278,2008.0
+Chanel,Woody Essence,"Fruity, Sweet, Vanilla",168.01,Male,4.7,75,357,1996.0
+Prada,Woody Essence,"Lavender, Sandalwood, Bergamot",193.7,Female,3.6,200,472,2017.0
+Hermès,Citrus Splash,"Lavender, Sandalwood, Bergamot",90.93,Unisex,4.2,30,231,2016.0
+Tom Ford,Musk Haven,"Woody, Spicy, Amber",290.11,Female,4.4,75,451,2020.0
+Armani,Euphoria,"Woody, Spicy, Amber",274.53,Unisex,4.2,150,77,1994.0
+Armani,Spice Trail,"Jasmine, Ylang Ylang, Vanilla",229.67,Male,3.9,50,56,2011.0
+YSL,Spice Trail,"Woody, Spicy, Amber",248.36,Male,4.2,75,386,2007.0
+Hermès,Woody Essence,"Cinnamon, Clove, Vetiver",42.54,Unisex,3.6,200,248,2012.0
+Givenchy,Midnight Bloom,"Cedarwood, Leather, Tobacco",30.64,Female,3.5,75,163,1999.0
+Hermès,Spice Trail,"Rose, Oud, Patchouli",89.36,Male,4.1,30,232,2020.0
+Givenchy,Spice Trail,"Cinnamon, Clove, Vetiver",165.68,Male,3.8,100,231,2006.0
+Gucci,Amber Mystique,"Rose, Oud, Patchouli",165.68,Female,3.1,30,375,2018.0
+Hermès,Citrus Splash,"Green Tea, Mint, Lemon",102.18,Male,4.0,50,466,2021.0
+Armani,Musk Haven,"Aquatic, Marine, Ambergris",80.2,Male,4.3,30,143,1997.0
+Dior,Velvet Rose,"Citrus, Floral, Musk",231.03,Female,4.0,200,263,1994.0
+Hermès,Euphoria,"Fruity, Sweet, Vanilla",280.65,Unisex,3.4,50,189,1998.0
+Chanel,Spice Trail,"Cinnamon, Clove, Vetiver",121.6,Male,3.6,30,146,1994.0
+Dior,Amber Mystique,"Aquatic, Marine, Ambergris",249.2,Female,3.9,50,366,2003.0
+Armani,Jasmine Bliss,"Lavender, Sandalwood, Bergamot",235.77,Unisex,3.8,75,197,2006.0
+Chanel,Musk Haven,"Woody, Spicy, Amber",120.76,Male,4.6,30,312,2024.0
+Hermès,Amber Mystique,"Rose, Oud, Patchouli",162.59,Unisex,4.0,200,133,1990.0
+Versace,Euphoria,"Cedarwood, Leather, Tobacco",165.68,Female,3.5,100,499,2015.0
+Prada,Jasmine Bliss,"Citrus, Floral, Musk",235.52,Female,4.7,100,457,2014.0
+Prada,Woody Essence,"Jasmine, Ylang Ylang, Vanilla",161.05,Unisex,4.6,50,232,1995.0
+Dior,Ocean Breeze,"Lavender, Sandalwood, Bergamot",42.57,Female,3.7,50,208,2008.0
+Prada,Citrus Splash,"Green Tea, Mint, Lemon",204.21,Unisex,3.2,30,422,2019.0
+Armani,Midnight Bloom,"Fruity, Sweet, Vanilla",120.66,Unisex,4.4,100,491,2005.0
+Prada,Spice Trail,"Cinnamon, Clove, Vetiver",288.29,Male,4.9,200,475,2003.0
+Versace,Velvet Rose,"Aquatic, Marine, Ambergris",168.92,Unisex,3.2,150,452,2016.0
+YSL,Euphoria,"Citrus, Floral, Musk",222.51,Male,4.8,30,6,2023.0
+Prada,Velvet Rose,"Aquatic, Marine, Ambergris",164.52,Unisex,4.1,100,410,1993.0
+Dior,Midnight Bloom,UNKNOWN,44.24,Unisex,4.1,200,163,1999.0
+Chanel,Amber Mystique,"Woody, Spicy, Amber",209.08,Female,4.7,75,218,2014.0
+Versace,Musk Haven,"Fruity, Sweet, Vanilla",153.82,Unisex,4.3,30,187,1997.0
+YSL,Musk Haven,"Green Tea, Mint, Lemon",265.7,Female,4.0,75,342,1997.0
+Versace,Spice Trail,"Fruity, Sweet, Vanilla",81.42,Female,3.8,30,431,2006.0
+Givenchy,Spice Trail,"Citrus, Floral, Musk",106.64,Male,3.3,30,427,2008.0
+Hermès,Spice Trail,"Lavender, Sandalwood, Bergamot",89.25,Male,3.7,200,397,2005.0
+Dior,Midnight Bloom,"Cinnamon, Clove, Vetiver",235.38,Unisex,3.7,150,193,1996.0
+Givenchy,Midnight Bloom,"Citrus, Floral, Musk",290.26,Unisex,3.2,75,98,2022.0
+Dior,Euphoria,"Fruity, Sweet, Vanilla",165.68,Male,4.5,75,249,1998.0
+Hermès,Amber Mystique,"Rose, Oud, Patchouli",107.03,Unisex,3.3,200,330,1994.0
+Armani,Ocean Breeze,"Jasmine, Ylang Ylang, Vanilla",131.15,Female,4.5,100,144,2019.0
+Hermès,Euphoria,"Cinnamon, Clove, Vetiver",61.4,Male,3.6,30,227,2010.0
+Hermès,Woody Essence,"Cedarwood, Leather, Tobacco",237.36,Male,3.9,150,499,2012.0
+Armani,Spice Trail,"Rose, Oud, Patchouli",199.74,Male,4.3,30,269,2005.0
+Chanel,Citrus Splash,"Green Tea, Mint, Lemon",285.78,Female,4.7,30,405,1991.0
+Chanel,Amber Mystique,"Aquatic, Marine, Ambergris",98.8,Female,3.3,200,209,2021.0
+Tom Ford,Musk Haven,"Woody, Spicy, Amber",122.27,Male,4.3,30,419,2012.0
+Tom Ford,Spice Trail,"Rose, Oud, Patchouli",185.91,Unisex,4.3,200,469,1995.0
+Givenchy,Citrus Splash,UNKNOWN,165.92,Unisex,3.6,50,250,2001.0
+Dior,Ocean Breeze,"Woody, Spicy, Amber",147.78,Male,4.6,100,297,2008.0
+Chanel,Velvet Rose,"Fruity, Sweet, Vanilla",213.86,Female,3.5,75,265,2003.0
+Armani,Ocean Breeze,"Aquatic, Marine, Ambergris",100.2,Male,4.9,75,110,1995.0
+YSL,Midnight Bloom,"Woody, Spicy, Amber",277.99,Male,3.7,150,409,1997.0
+Tom Ford,Woody Essence,"Cinnamon, Clove, Vetiver",260.97,Unisex,4.2,30,364,1997.0
+Tom Ford,Ocean Breeze,"Citrus, Floral, Musk",88.95,Male,0.0,30,337,2011.0
+Gucci,Amber Mystique,"Rose, Oud, Patchouli",224.36,Male,3.9,75,260,1990.0
+Givenchy,Euphoria,"Lavender, Sandalwood, Bergamot",47.37,Male,4.4,50,242,2003.0
+Prada,Velvet Rose,"Cedarwood, Leather, Tobacco",139.85,Female,3.2,200,77,1995.0
+Versace,Musk Haven,"Cedarwood, Leather, Tobacco",165.68,Unisex,4.6,100,144,1994.0
+Givenchy,Velvet Rose,"Green Tea, Mint, Lemon",63.02,Unisex,3.8,150,444,1990.0
+YSL,Jasmine Bliss,"Cedarwood, Leather, Tobacco",133.48,Unisex,5.0,100,109,2005.0
+Armani,Spice Trail,"Citrus, Floral, Musk",281.81,Male,3.4,200,487,2014.0
+Dior,Musk Haven,"Jasmine, Ylang Ylang, Vanilla",199.32,Unisex,3.0,75,312,2007.0
+Chanel,Jasmine Bliss,"Fruity, Sweet, Vanilla",286.71,Male,4.6,75,182,1993.0
+Tom Ford,Musk Haven,"Woody, Spicy, Amber",200.07,Female,3.5,200,237,2018.0
+Givenchy,Euphoria,"Woody, Spicy, Amber",31.88,Female,4.7,75,125,1997.0
+Chanel,Citrus Splash,"Fruity, Sweet, Vanilla",265.91,Female,3.8,200,33,2003.0
+Dior,Jasmine Bliss,"Rose, Oud, Patchouli",228.07,Female,3.9,50,100,2007.0
+Versace,Euphoria,"Lavender, Sandalwood, Bergamot",203.36,Male,4.3,75,329,2015.0
+YSL,Woody Essence,"Lavender, Sandalwood, Bergamot",199.07,Unisex,4.3,75,86,2015.0
+Prada,Citrus Splash,"Cinnamon, Clove, Vetiver",176.2,Female,3.9,200,269,1999.0
+Givenchy,Jasmine Bliss,"Cinnamon, Clove, Vetiver",124.42,Male,4.9,30,287,2005.0
+Givenchy,Citrus Splash,"Lavender, Sandalwood, Bergamot",118.25,Male,4.5,75,290,2002.0
+Prada,Amber Mystique,"Citrus, Floral, Musk",138.1,Female,4.6,150,335,2012.0
+Versace,Amber Mystique,UNKNOWN,85.91,Male,4.4,75,31,1994.0
+Gucci,Citrus Splash,"Lavender, Sandalwood, Bergamot",30.58,Unisex,3.9,100,423,2012.0
+Armani,Jasmine Bliss,"Woody, Spicy, Amber",261.08,Unisex,3.2,50,413,2008.0
+Givenchy,Velvet Rose,"Green Tea, Mint, Lemon",136.9,Female,3.8,50,3,2022.0
+Chanel,Musk Haven,"Jasmine, Ylang Ylang, Vanilla",57.26,Female,3.4,50,121,2018.0
+Dior,Euphoria,"Green Tea, Mint, Lemon",32.25,Unisex,4.7,50,357,2013.0
+Dior,Velvet Rose,"Woody, Spicy, Amber",233.9,Male,3.2,150,470,2024.0
+Givenchy,Ocean Breeze,"Fruity, Sweet, Vanilla",66.66,Unisex,4.7,75,77,2012.0
+Hermès,Woody Essence,"Green Tea, Mint, Lemon",234.15,Female,3.6,75,116,2016.0
+YSL,Velvet Rose,"Lavender, Sandalwood, Bergamot",221.24,Unisex,4.8,150,352,2023.0
+Prada,Jasmine Bliss,"Aquatic, Marine, Ambergris",64.44,Female,5.0,30,188,2009.0
+Versace,Woody Essence,"Cedarwood, Leather, Tobacco",75.24,Female,4.9,50,106,2016.0
+Versace,Midnight Bloom,"Cedarwood, Leather, Tobacco",298.16,Female,4.1,30,376,1995.0
+Armani,Midnight Bloom,"Jasmine, Ylang Ylang, Vanilla",277.7,Male,4.2,30,187,1996.0
+Gucci,Midnight Bloom,"Rose, Oud, Patchouli",83.3,Male,3.2,100,143,2015.0
+YSL,Velvet Rose,"Cedarwood, Leather, Tobacco",227.15,Female,4.8,50,482,2004.0
+Prada,Citrus Splash,"Green Tea, Mint, Lemon",32.4,Unisex,3.2,150,78,2009.0
+Tom Ford,Jasmine Bliss,"Rose, Oud, Patchouli",212.68,Unisex,4.7,100,403,2018.0
+Dior,Spice Trail,"Jasmine, Ylang Ylang, Vanilla",87.79,Male,3.4,150,336,1995.0
+Armani,Musk Haven,"Jasmine, Ylang Ylang, Vanilla",90.34,Female,3.3,150,229,2009.0
+Armani,Citrus Splash,"Lavender, Sandalwood, Bergamot",70.98,Female,4.7,30,462,2003.0
+Dior,Amber Mystique,"Rose, Oud, Patchouli",197.75,Male,3.4,75,334,2020.0
+Givenchy,Woody Essence,"Jasmine, Ylang Ylang, Vanilla",216.25,Female,3.8,30,214,1990.0
+Hermès,Citrus Splash,"Woody, Spicy, Amber",208.09,Female,3.7,50,298,2010.0
+Versace,Spice Trail,"Rose, Oud, Patchouli",275.7,Unisex,4.8,200,434,2002.0
+YSL,Velvet Rose,"Cedarwood, Leather, Tobacco",74.86,Female,4.0,50,37,1994.0
+Chanel,Velvet Rose,"Jasmine, Ylang Ylang, Vanilla",234.44,Female,3.6,50,455,2016.0
+Prada,Spice Trail,"Cedarwood, Leather, Tobacco",50.09,Female,3.0,75,249,2019.0
+Hermès,Citrus Splash,"Cedarwood, Leather, Tobacco",147.6,Unisex,4.0,100,121,2003.0
+Armani,Ocean Breeze,"Green Tea, Mint, Lemon",146.67,Unisex,3.3,200,424,1994.0
+Versace,Woody Essence,"Woody, Spicy, Amber",117.14,Unisex,4.7,50,256,2009.0
+Hermès,Euphoria,"Cinnamon, Clove, Vetiver",176.84,Female,4.5,150,320,1998.0
+Dior,Woody Essence,UNKNOWN,172.67,Male,3.4,150,344,2017.0
+Chanel,Amber Mystique,"Woody, Spicy, Amber",83.67,Female,3.4,50,62,2004.0
+Dior,Jasmine Bliss,"Jasmine, Ylang Ylang, Vanilla",68.81,Female,0.0,200,157,2007.0
+Gucci,Midnight Bloom,"Green Tea, Mint, Lemon",113.23,Unisex,4.9,150,175,1990.0
+Versace,Euphoria,"Cedarwood, Leather, Tobacco",262.21,Unisex,4.7,75,96,2009.0
+Gucci,Spice Trail,"Cedarwood, Leather, Tobacco",50.61,Female,4.3,30,230,2016.0
+YSL,Musk Haven,"Citrus, Floral, Musk",39.24,Male,4.1,50,113,1995.0
+Prada,Jasmine Bliss,"Jasmine, Ylang Ylang, Vanilla",123.41,Male,3.3,50,207,2008.0
+Givenchy,Euphoria,"Cinnamon, Clove, Vetiver",106.91,Male,4.4,150,85,2005.0
+Hermès,Spice Trail,"Fruity, Sweet, Vanilla",241.66,Female,3.3,150,139,2002.0
+Hermès,Velvet Rose,"Lavender, Sandalwood, Bergamot",218.16,Female,3.4,75,105,2015.0
+Tom Ford,Velvet Rose,"Citrus, Floral, Musk",265.2,Male,3.9,50,209,2009.0
+Dior,Woody Essence,"Cinnamon, Clove, Vetiver",118.94,Unisex,4.9,100,84,2007.0
+Tom Ford,Spice Trail,"Cedarwood, Leather, Tobacco",68.48,Male,4.6,30,166,1997.0
+YSL,Musk Haven,"Cinnamon, Clove, Vetiver",38.51,Female,4.4,50,117,2012.0
+Givenchy,Jasmine Bliss,"Aquatic, Marine, Ambergris",291.11,Unisex,4.0,75,422,1995.0
+Versace,Musk Haven,"Green Tea, Mint, Lemon",228.28,Male,4.6,200,415,2019.0
+Tom Ford,Musk Haven,"Jasmine, Ylang Ylang, Vanilla",185.58,Female,5.0,30,299,1990.0
+Chanel,Midnight Bloom,"Rose, Oud, Patchouli",254.54,Male,3.2,30,6,2024.0
+Prada,Spice Trail,"Cinnamon, Clove, Vetiver",30.72,Unisex,3.8,50,463,2022.0
+Dior,Euphoria,"Cedarwood, Leather, Tobacco",111.63,Female,3.7,50,58,2005.0
+Dior,Velvet Rose,"Cedarwood, Leather, Tobacco",162.32,Male,3.8,200,147,2013.0
+Tom Ford,Euphoria,"Citrus, Floral, Musk",38.77,Female,4.0,30,138,2022.0
+Givenchy,Midnight Bloom,"Fruity, Sweet, Vanilla",232.05,Unisex,4.7,100,314,2014.0
+Hermès,Musk Haven,"Rose, Oud, Patchouli",36.38,Female,3.9,30,43,1992.0
+YSL,Ocean Breeze,"Fruity, Sweet, Vanilla",171.16,Male,4.3,30,416,2000.0
+Prada,Euphoria,"Rose, Oud, Patchouli",153.7,Unisex,3.5,200,189,1994.0
+Armani,Ocean Breeze,"Green Tea, Mint, Lemon",143.04,Female,3.7,30,163,2017.0
+Gucci,Citrus Splash,"Cinnamon, Clove, Vetiver",97.44,Male,4.6,75,389,2013.0
+Tom Ford,Amber Mystique,"Aquatic, Marine, Ambergris",270.71,Unisex,4.5,150,126,1995.0
+Versace,Euphoria,"Lavender, Sandalwood, Bergamot",200.61,Female,3.3,30,92,2016.0
+Versace,Midnight Bloom,"Cinnamon, Clove, Vetiver",43.69,Female,4.0,150,247,2016.0
+Armani,Musk Haven,"Lavender, Sandalwood, Bergamot",272.21,Unisex,3.5,150,266,2014.0
+Dior,Amber Mystique,UNKNOWN,109.79,Male,4.3,200,458,2005.0
+Givenchy,Spice Trail,"Lavender, Sandalwood, Bergamot",56.25,Female,4.9,100,367,1999.0
+Chanel,Musk Haven,"Citrus, Floral, Musk",176.16,Female,4.5,100,198,2004.0
+Givenchy,Woody Essence,"Lavender, Sandalwood, Bergamot",264.95,Female,4.1,75,51,2004.0
+Armani,Woody Essence,"Lavender, Sandalwood, Bergamot",208.0,Male,3.1,200,17,2005.0
+Givenchy,Midnight Bloom,"Rose, Oud, Patchouli",193.23,Female,4.0,150,442,1998.0
+Givenchy,Midnight Bloom,"Cinnamon, Clove, Vetiver",195.5,Female,4.4,50,253,2009.0
+YSL,Midnight Bloom,"Fruity, Sweet, Vanilla",225.01,Female,4.6,200,87,2002.0
+Prada,Ocean Breeze,"Aquatic, Marine, Ambergris",78.88,Male,3.4,100,160,2021.0
+Chanel,Musk Haven,"Rose, Oud, Patchouli",156.52,Unisex,4.7,100,17,2013.0
+Versace,Midnight Bloom,"Jasmine, Ylang Ylang, Vanilla",143.48,Female,4.2,100,284,2007.0
+Chanel,Velvet Rose,"Lavender, Sandalwood, Bergamot",257.53,Unisex,3.2,200,1,2024.0
+YSL,Woody Essence,"Aquatic, Marine, Ambergris",73.42,Male,3.6,75,32,2021.0
+Prada,Citrus Splash,"Rose, Oud, Patchouli",137.57,Male,3.4,100,262,2022.0
+Dior,Amber Mystique,"Fruity, Sweet, Vanilla",128.3,Unisex,3.4,200,454,2013.0
+Tom Ford,Musk Haven,"Fruity, Sweet, Vanilla",54.34,Male,4.8,150,229,1992.0
+Armani,Amber Mystique,"Woody, Spicy, Amber",112.92,Unisex,4.0,75,216,1992.0
+Versace,Jasmine Bliss,"Fruity, Sweet, Vanilla",68.32,Male,3.1,50,195,2015.0
+Armani,Velvet Rose,"Fruity, Sweet, Vanilla",158.22,Unisex,4.3,30,495,2018.0
+Tom Ford,Amber Mystique,UNKNOWN,196.33,Male,4.7,100,116,2016.0
+Versace,Euphoria,"Green Tea, Mint, Lemon",245.32,Unisex,4.6,30,73,2015.0
+Tom Ford,Ocean Breeze,"Citrus, Floral, Musk",48.81,Female,4.7,30,484,2014.0
+Givenchy,Spice Trail,"Woody, Spicy, Amber",223.94,Male,3.4,200,175,2020.0
+Armani,Spice Trail,"Lavender, Sandalwood, Bergamot",134.32,Male,3.8,50,54,1991.0
+Tom Ford,Musk Haven,"Rose, Oud, Patchouli",190.55,Unisex,3.4,75,117,1998.0
+Prada,Amber Mystique,"Aquatic, Marine, Ambergris",182.65,Female,4.2,75,289,2013.0
+Prada,Midnight Bloom,"Rose, Oud, Patchouli",37.77,Female,4.4,150,30,2005.0
+Tom Ford,Euphoria,"Aquatic, Marine, Ambergris",146.18,Male,4.2,30,442,2017.0
+Armani,Ocean Breeze,"Citrus, Floral, Musk",191.93,Female,4.8,150,423,1998.0
+Givenchy,Jasmine Bliss,"Cinnamon, Clove, Vetiver",154.55,Unisex,3.8,30,129,1991.0
+Tom Ford,Amber Mystique,"Citrus, Floral, Musk",70.16,Male,4.7,75,320,2024.0
+Givenchy,Amber Mystique,"Fruity, Sweet, Vanilla",47.62,Male,3.9,75,415,2012.0
+Tom Ford,Euphoria,"Jasmine, Ylang Ylang, Vanilla",175.29,Unisex,4.8,50,252,2004.0
+Gucci,Ocean Breeze,"Rose, Oud, Patchouli",218.37,Male,3.1,200,489,2005.0
+Gucci,Amber Mystique,"Jasmine, Ylang Ylang, Vanilla",80.55,Female,3.1,150,292,2011.0
+Chanel,Musk Haven,"Cinnamon, Clove, Vetiver",151.39,Male,3.2,50,166,2009.0
+Armani,Musk Haven,"Rose, Oud, Patchouli",234.28,Unisex,3.1,30,241,1990.0
+Dior,Woody Essence,"Rose, Oud, Patchouli",282.6,Male,3.6,75,334,2009.0
+Chanel,Ocean Breeze,"Lavender, Sandalwood, Bergamot",34.27,Unisex,3.1,100,424,2014.0
+Dior,Midnight Bloom,UNKNOWN,73.04,Female,3.7,100,279,2023.0
+Chanel,Euphoria,"Citrus, Floral, Musk",150.49,Male,3.2,50,354,1992.0
+Tom Ford,Spice Trail,"Woody, Spicy, Amber",31.55,Female,4.3,200,265,2007.0
+Dior,Woody Essence,"Aquatic, Marine, Ambergris",141.14,Unisex,3.8,200,146,2011.0
+Dior,Midnight Bloom,"Fruity, Sweet, Vanilla",73.41,Female,3.3,50,96,1999.0
+Givenchy,Amber Mystique,"Green Tea, Mint, Lemon",120.37,Unisex,4.9,75,202,2019.0
+Armani,Ocean Breeze,"Jasmine, Ylang Ylang, Vanilla",272.25,Female,4.7,200,428,2020.0
+Tom Ford,Musk Haven,"Fruity, Sweet, Vanilla",91.69,Female,3.5,30,457,1996.0
+Dior,Midnight Bloom,"Woody, Spicy, Amber",30.23,Female,3.8,150,382,1990.0
+Chanel,Ocean Breeze,"Cedarwood, Leather, Tobacco",290.76,Male,3.5,100,302,1999.0
+Dior,Musk Haven,"Cedarwood, Leather, Tobacco",38.21,Female,4.8,200,317,2020.0
+Hermès,Musk Haven,"Rose, Oud, Patchouli",173.39,Unisex,4.3,200,176,1999.0
+Tom Ford,Citrus Splash,"Rose, Oud, Patchouli",208.17,Unisex,3.7,50,113,1995.0
+Dior,Woody Essence,"Cinnamon, Clove, Vetiver",148.62,Male,4.8,30,126,2020.0
+YSL,Musk Haven,"Fruity, Sweet, Vanilla",164.33,Female,3.7,100,107,1994.0
+Chanel,Ocean Breeze,"Rose, Oud, Patchouli",171.01,Female,4.0,200,55,1998.0
+Armani,Citrus Splash,"Green Tea, Mint, Lemon",68.0,Unisex,4.9,100,220,2014.0
+Hermès,Spice Trail,"Green Tea, Mint, Lemon",67.09,Unisex,4.8,75,35,2012.0
+Givenchy,Spice Trail,UNKNOWN,99.07,Male,4.0,50,260,2006.0
+Armani,Midnight Bloom,"Jasmine, Ylang Ylang, Vanilla",173.79,Unisex,4.1,75,183,2017.0
+Dior,Musk Haven,"Rose, Oud, Patchouli",165.68,Male,4.7,75,291,2021.0
+Armani,Spice Trail,"Rose, Oud, Patchouli",214.13,Unisex,3.6,200,172,1991.0
+Prada,Spice Trail,"Rose, Oud, Patchouli",205.72,Male,4.3,200,52,2024.0
+YSL,Ocean Breeze,"Lavender, Sandalwood, Bergamot",173.99,Unisex,3.1,200,206,2004.0
+Prada,Euphoria,"Cinnamon, Clove, Vetiver",62.84,Unisex,4.3,100,55,2016.0
+Dior,Citrus Splash,"Green Tea, Mint, Lemon",205.46,Male,4.6,200,90,2005.0
+Tom Ford,Amber Mystique,"Rose, Oud, Patchouli",108.4,Female,4.7,30,90,2010.0
+Tom Ford,Midnight Bloom,"Citrus, Floral, Musk",210.59,Male,3.6,75,102,2019.0
+Hermès,Midnight Bloom,"Green Tea, Mint, Lemon",289.55,Male,4.9,100,139,2005.0
+Hermès,Ocean Breeze,"Jasmine, Ylang Ylang, Vanilla",53.86,Unisex,3.9,200,268,1992.0
+YSL,Musk Haven,"Cinnamon, Clove, Vetiver",153.77,Male,5.0,30,380,2017.0
+Hermès,Musk Haven,"Jasmine, Ylang Ylang, Vanilla",221.78,Unisex,4.1,30,359,2002.0
+Armani,Midnight Bloom,"Rose, Oud, Patchouli",264.21,Male,3.2,150,123,1991.0
+Chanel,Citrus Splash,"Citrus, Floral, Musk",200.06,Unisex,4.9,30,421,2006.0
+Dior,Midnight Bloom,"Citrus, Floral, Musk",130.16,Female,4.4,150,160,2009.0
+Dior,Velvet Rose,UNKNOWN,206.96,Unisex,3.4,75,290,2014.0
+Gucci,Midnight Bloom,"Jasmine, Ylang Ylang, Vanilla",56.82,Male,4.1,150,12,1991.0
+YSL,Amber Mystique,"Cinnamon, Clove, Vetiver",75.49,Male,4.8,50,202,2000.0
+Chanel,Amber Mystique,"Jasmine, Ylang Ylang, Vanilla",54.45,Unisex,4.4,50,240,2002.0
+Tom Ford,Citrus Splash,"Lavender, Sandalwood, Bergamot",115.95,Male,3.0,200,205,1990.0
+Gucci,Amber Mystique,"Cedarwood, Leather, Tobacco",286.98,Female,4.9,150,326,1993.0
+Versace,Spice Trail,"Woody, Spicy, Amber",210.93,Unisex,3.5,75,113,1997.0
+Dior,Musk Haven,"Lavender, Sandalwood, Bergamot",205.08,Male,4.5,50,158,1997.0
+YSL,Amber Mystique,"Cinnamon, Clove, Vetiver",42.47,Male,4.6,200,403,2010.0
+Dior,Ocean Breeze,"Fruity, Sweet, Vanilla",283.73,Female,3.2,150,321,1999.0
+Hermès,Amber Mystique,"Green Tea, Mint, Lemon",233.49,Male,4.0,100,316,2012.0
+Versace,Midnight Bloom,"Green Tea, Mint, Lemon",113.42,Female,4.3,50,275,1990.0
+YSL,Midnight Bloom,"Rose, Oud, Patchouli",152.77,Unisex,3.6,200,65,2003.0
+Versace,Ocean Breeze,"Cedarwood, Leather, Tobacco",190.92,Male,3.5,50,370,2021.0
+Dior,Amber Mystique,"Aquatic, Marine, Ambergris",167.11,Male,3.7,50,355,2005.0
+Givenchy,Jasmine Bliss,UNKNOWN,177.55,Female,0.0,200,259,2014.0
+Givenchy,Euphoria,"Fruity, Sweet, Vanilla",228.28,Unisex,4.4,75,12,1991.0
+Versace,Spice Trail,"Rose, Oud, Patchouli",224.02,Unisex,4.0,75,303,2000.0
+Armani,Ocean Breeze,"Rose, Oud, Patchouli",158.55,Unisex,4.3,150,496,2020.0
+YSL,Musk Haven,"Lavender, Sandalwood, Bergamot",256.12,Unisex,4.4,200,208,2004.0
+Chanel,Velvet Rose,"Jasmine, Ylang Ylang, Vanilla",219.9,Male,3.5,30,163,2016.0
+Prada,Citrus Splash,"Woody, Spicy, Amber",165.68,Unisex,4.2,150,33,2000.0
+Hermès,Ocean Breeze,"Woody, Spicy, Amber",86.73,Female,5.0,200,415,2017.0
+Prada,Amber Mystique,"Rose, Oud, Patchouli",198.89,Unisex,3.9,30,42,2024.0
+Armani,Spice Trail,"Lavender, Sandalwood, Bergamot",101.79,Unisex,4.9,30,161,2018.0
+Versace,Spice Trail,"Cinnamon, Clove, Vetiver",265.74,Unisex,3.3,100,75,1994.0
+Dior,Woody Essence,"Citrus, Floral, Musk",194.89,Unisex,3.4,50,51,2012.0
+YSL,Citrus Splash,"Woody, Spicy, Amber",255.82,Unisex,4.2,30,365,1997.0
+Givenchy,Spice Trail,"Fruity, Sweet, Vanilla",139.08,Female,4.3,50,291,2022.0
+Armani,Velvet Rose,"Green Tea, Mint, Lemon",125.01,Unisex,4.6,75,360,2016.0
+Prada,Jasmine Bliss,"Aquatic, Marine, Ambergris",101.94,Male,4.1,30,16,2019.0
+Givenchy,Musk Haven,"Cinnamon, Clove, Vetiver",153.41,Male,4.8,75,430,2000.0
+Givenchy,Ocean Breeze,"Green Tea, Mint, Lemon",195.55,Unisex,4.9,100,57,2011.0
+Hermès,Ocean Breeze,"Cedarwood, Leather, Tobacco",59.03,Unisex,4.8,75,93,2005.0
+Armani,Citrus Splash,"Green Tea, Mint, Lemon",140.46,Unisex,3.6,30,493,2016.0
+Givenchy,Musk Haven,"Lavender, Sandalwood, Bergamot",98.05,Female,4.9,50,239,1996.0
+Prada,Amber Mystique,"Cedarwood, Leather, Tobacco",247.25,Unisex,4.7,50,66,2021.0
+Hermès,Ocean Breeze,"Cinnamon, Clove, Vetiver",88.38,Male,3.9,75,154,2013.0
+Tom Ford,Woody Essence,"Cedarwood, Leather, Tobacco",130.24,Unisex,3.8,30,185,2019.0
+Chanel,Citrus Splash,"Lavender, Sandalwood, Bergamot",232.93,Female,5.0,200,84,2004.0
+Chanel,Jasmine Bliss,"Cedarwood, Leather, Tobacco",50.01,Male,4.0,150,87,2008.0
+Chanel,Musk Haven,"Woody, Spicy, Amber",246.19,Unisex,3.8,100,488,2016.0
+Givenchy,Spice Trail,"Cedarwood, Leather, Tobacco",94.94,Unisex,3.4,50,89,1991.0
+Prada,Citrus Splash,"Cinnamon, Clove, Vetiver",173.03,Unisex,4.7,100,417,1994.0
+Hermès,Midnight Bloom,"Green Tea, Mint, Lemon",196.68,Male,4.8,50,431,1996.0
+Versace,Musk Haven,"Lavender, Sandalwood, Bergamot",240.11,Unisex,3.0,100,180,2010.0
+Givenchy,Musk Haven,"Cinnamon, Clove, Vetiver",188.16,Female,4.4,30,409,2006.0
+Dior,Jasmine Bliss,"Fruity, Sweet, Vanilla",131.12,Male,4.4,200,305,2002.0
+Armani,Midnight Bloom,"Fruity, Sweet, Vanilla",196.17,Male,4.5,75,257,2013.0
+YSL,Ocean Breeze,"Cedarwood, Leather, Tobacco",164.04,Unisex,3.9,200,373,1996.0
+Versace,Jasmine Bliss,"Jasmine, Ylang Ylang, Vanilla",282.99,Female,3.2,200,448,2001.0
+Armani,Jasmine Bliss,"Jasmine, Ylang Ylang, Vanilla",70.09,Female,5.0,50,385,2011.0
+Hermès,Jasmine Bliss,"Lavender, Sandalwood, Bergamot",139.31,Male,3.9,75,215,2010.0
+Tom Ford,Ocean Breeze,"Rose, Oud, Patchouli",130.53,Unisex,3.3,30,292,1995.0
+Hermès,Musk Haven,"Jasmine, Ylang Ylang, Vanilla",43.46,Female,4.3,75,125,2006.0
+YSL,Woody Essence,"Jasmine, Ylang Ylang, Vanilla",118.63,Male,3.2,100,178,2009.0
+YSL,Ocean Breeze,"Green Tea, Mint, Lemon",48.73,Unisex,4.8,75,372,2013.0
+Gucci,Citrus Splash,"Citrus, Floral, Musk",230.95,Unisex,4.8,150,228,2004.0
+Chanel,Spice Trail,"Citrus, Floral, Musk",201.22,Male,4.6,30,85,2016.0
+Armani,Woody Essence,"Lavender, Sandalwood, Bergamot",80.98,Male,3.6,30,333,1996.0
+Gucci,Midnight Bloom,"Jasmine, Ylang Ylang, Vanilla",267.01,Unisex,5.0,150,264,2003.0
+YSL,Musk Haven,"Cedarwood, Leather, Tobacco",165.68,Unisex,4.8,200,49,2010.0
+Armani,Jasmine Bliss,"Green Tea, Mint, Lemon",72.47,Male,4.4,200,450,2018.0
+Givenchy,Amber Mystique,"Woody, Spicy, Amber",273.69,Unisex,4.3,150,379,2006.0
+Versace,Euphoria,"Jasmine, Ylang Ylang, Vanilla",261.88,Female,4.1,30,452,2024.0
+YSL,Jasmine Bliss,"Fruity, Sweet, Vanilla",109.56,Female,3.2,100,72,1993.0
+Givenchy,Woody Essence,"Lavender, Sandalwood, Bergamot",126.62,Male,3.9,75,226,2007.0
+Tom Ford,Midnight Bloom,"Fruity, Sweet, Vanilla",159.47,Female,4.0,30,369,2013.0
+Tom Ford,Musk Haven,"Aquatic, Marine, Ambergris",236.51,Female,4.2,50,285,2015.0
+Chanel,Euphoria,"Cedarwood, Leather, Tobacco",258.12,Female,5.0,50,149,2023.0
+Dior,Citrus Splash,"Green Tea, Mint, Lemon",65.21,Male,4.4,75,102,1998.0
+Dior,Velvet Rose,"Aquatic, Marine, Ambergris",151.66,Unisex,3.4,100,243,1990.0
+Chanel,Woody Essence,"Woody, Spicy, Amber",61.09,Female,4.1,200,320,2000.0
+Hermès,Woody Essence,"Cedarwood, Leather, Tobacco",235.37,Male,5.0,150,8,2009.0
+Givenchy,Musk Haven,"Aquatic, Marine, Ambergris",264.79,Unisex,3.0,30,60,2001.0
+Tom Ford,Amber Mystique,"Lavender, Sandalwood, Bergamot",273.07,Unisex,3.2,50,214,1992.0
+Prada,Citrus Splash,"Woody, Spicy, Amber",74.5,Unisex,3.5,150,292,2005.0
+Hermès,Woody Essence,"Cedarwood, Leather, Tobacco",136.1,Male,3.0,50,386,2008.0
+Givenchy,Midnight Bloom,"Citrus, Floral, Musk",169.75,Male,4.2,150,442,2020.0
+Armani,Midnight Bloom,"Rose, Oud, Patchouli",222.13,Male,4.6,75,142,2014.0
+Dior,Velvet Rose,"Aquatic, Marine, Ambergris",261.13,Unisex,3.2,150,278,2016.0
+Versace,Woody Essence,"Rose, Oud, Patchouli",196.52,Unisex,3.1,200,318,2023.0
+Versace,Amber Mystique,"Aquatic, Marine, Ambergris",79.18,Female,4.3,100,139,2001.0
+Chanel,Ocean Breeze,"Green Tea, Mint, Lemon",71.96,Male,4.5,100,198,2008.0
+YSL,Midnight Bloom,"Citrus, Floral, Musk",263.92,Female,3.6,150,172,2015.0
+Hermès,Amber Mystique,"Aquatic, Marine, Ambergris",171.79,Male,3.9,30,192,2008.0
+Givenchy,Musk Haven,"Woody, Spicy, Amber",157.61,Male,4.8,50,178,1999.0
+Givenchy,Euphoria,"Woody, Spicy, Amber",170.51,Male,3.5,30,295,2021.0
+Givenchy,Citrus Splash,"Cinnamon, Clove, Vetiver",51.05,Male,3.7,50,416,2007.0
+Prada,Euphoria,"Woody, Spicy, Amber",65.23,Unisex,4.2,150,442,2005.0
+Versace,Ocean Breeze,"Fruity, Sweet, Vanilla",93.98,Unisex,4.6,200,474,1996.0
+YSL,Velvet Rose,"Citrus, Floral, Musk",61.1,Male,4.9,30,326,1997.0
+Chanel,Citrus Splash,"Cinnamon, Clove, Vetiver",218.16,Male,4.1,30,187,2013.0
+Gucci,Musk Haven,"Lavender, Sandalwood, Bergamot",234.26,Unisex,3.1,200,211,2016.0
+Prada,Midnight Bloom,"Lavender, Sandalwood, Bergamot",135.47,Female,4.2,30,465,1990.0
+YSL,Citrus Splash,"Aquatic, Marine, Ambergris",167.77,Unisex,4.2,100,297,2014.0
+Chanel,Ocean Breeze,"Cinnamon, Clove, Vetiver",202.76,Male,4.4,50,64,2005.0
+Versace,Velvet Rose,"Cinnamon, Clove, Vetiver",165.68,Male,3.3,200,155,2013.0
+Versace,Amber Mystique,"Rose, Oud, Patchouli",269.31,Unisex,3.7,200,423,2022.0
+YSL,Citrus Splash,"Rose, Oud, Patchouli",230.9,Male,4.0,200,500,2022.0
+Gucci,Ocean Breeze,"Green Tea, Mint, Lemon",99.81,Female,4.6,50,141,2005.0
+YSL,Ocean Breeze,"Jasmine, Ylang Ylang, Vanilla",171.38,Unisex,4.0,75,67,1999.0
+Armani,Ocean Breeze,"Woody, Spicy, Amber",284.61,Unisex,3.9,50,467,1997.0
+Dior,Citrus Splash,"Aquatic, Marine, Ambergris",174.73,Unisex,4.0,100,427,2010.0
+Dior,Velvet Rose,"Cedarwood, Leather, Tobacco",60.03,Male,3.6,50,205,2023.0
+Chanel,Jasmine Bliss,"Green Tea, Mint, Lemon",265.54,Male,3.3,50,66,2019.0
+Gucci,Velvet Rose,"Woody, Spicy, Amber",53.45,Male,4.8,50,428,1998.0
+Hermès,Citrus Splash,"Green Tea, Mint, Lemon",240.45,Male,4.5,200,241,1999.0
+Chanel,Musk Haven,"Rose, Oud, Patchouli",130.75,Female,3.8,200,82,2024.0
+Gucci,Jasmine Bliss,"Green Tea, Mint, Lemon",78.14,Male,3.6,30,430,2014.0
+Prada,Euphoria,"Fruity, Sweet, Vanilla",297.0,Female,4.8,100,387,2016.0
+Gucci,Citrus Splash,"Cedarwood, Leather, Tobacco",60.7,Male,4.0,30,368,2020.0
+Prada,Midnight Bloom,"Woody, Spicy, Amber",136.87,Female,4.8,75,334,2018.0
+Dior,Spice Trail,"Citrus, Floral, Musk",228.89,Male,4.1,200,94,2022.0
+Armani,Spice Trail,"Citrus, Floral, Musk",127.23,Unisex,4.4,30,336,2019.0
+Givenchy,Amber Mystique,"Jasmine, Ylang Ylang, Vanilla",242.67,Female,4.1,150,127,2004.0
+Chanel,Citrus Splash,"Fruity, Sweet, Vanilla",194.93,Female,3.2,75,144,1997.0
+Gucci,Spice Trail,"Fruity, Sweet, Vanilla",272.33,Male,3.2,200,274,2021.0
+Chanel,Musk Haven,"Cedarwood, Leather, Tobacco",177.93,Unisex,3.5,100,471,2013.0
+YSL,Woody Essence,"Green Tea, Mint, Lemon",65.27,Male,4.1,200,409,2003.0
+Hermès,Velvet Rose,"Green Tea, Mint, Lemon",210.58,Unisex,3.1,150,347,2021.0
+Prada,Spice Trail,"Rose, Oud, Patchouli",241.48,Female,3.7,100,458,1991.0
+YSL,Velvet Rose,"Cinnamon, Clove, Vetiver",172.73,Female,3.5,100,240,1992.0
+Tom Ford,Jasmine Bliss,"Cedarwood, Leather, Tobacco",100.24,Unisex,3.6,200,330,2003.0
+Hermès,Velvet Rose,"Citrus, Floral, Musk",205.8,Unisex,5.0,200,357,2021.0
+Gucci,Amber Mystique,"Fruity, Sweet, Vanilla",179.58,Male,3.2,30,44,2023.0
+Hermès,Citrus Splash,"Citrus, Floral, Musk",98.6,Female,4.4,75,279,2000.0
+Dior,Euphoria,"Woody, Spicy, Amber",84.04,Male,3.5,200,415,2017.0
+Dior,Spice Trail,"Cinnamon, Clove, Vetiver",99.36,Unisex,3.4,50,494,2007.0
+Chanel,Citrus Splash,"Jasmine, Ylang Ylang, Vanilla",77.6,Female,4.1,150,293,2024.0
+Tom Ford,Musk Haven,"Cedarwood, Leather, Tobacco",294.2,Female,4.7,75,188,2008.0
+YSL,Midnight Bloom,"Aquatic, Marine, Ambergris",204.8,Female,3.7,75,229,1998.0
+Armani,Ocean Breeze,"Cinnamon, Clove, Vetiver",77.15,Male,4.4,50,497,2009.0
+Prada,Woody Essence,"Green Tea, Mint, Lemon",244.35,Unisex,3.1,150,495,2011.0
+Prada,Musk Haven,"Aquatic, Marine, Ambergris",276.45,Male,3.2,50,96,2005.0
+Givenchy,Euphoria,"Cinnamon, Clove, Vetiver",95.44,Unisex,3.4,30,96,2002.0
+Givenchy,Citrus Splash,"Rose, Oud, Patchouli",192.58,Unisex,3.1,75,87,2016.0
+Hermès,Woody Essence,"Cinnamon, Clove, Vetiver",129.75,Female,3.7,50,335,2009.0
+Gucci,Euphoria,"Fruity, Sweet, Vanilla",257.4,Male,4.4,200,103,2011.0
+Gucci,Midnight Bloom,"Jasmine, Ylang Ylang, Vanilla",60.45,Female,4.6,200,10,2009.0
+YSL,Midnight Bloom,"Aquatic, Marine, Ambergris",230.81,Male,4.9,50,131,1994.0
+Prada,Spice Trail,"Cinnamon, Clove, Vetiver",193.68,Unisex,4.8,30,345,1990.0
+YSL,Spice Trail,"Woody, Spicy, Amber",215.5,Male,4.6,30,310,1993.0
+Dior,Jasmine Bliss,"Rose, Oud, Patchouli",271.21,Male,3.4,150,479,1996.0
+Hermès,Musk Haven,"Cedarwood, Leather, Tobacco",141.45,Unisex,4.5,50,413,2016.0
+Chanel,Ocean Breeze,"Jasmine, Ylang Ylang, Vanilla",257.01,Unisex,4.8,200,154,1995.0
+Dior,Amber Mystique,"Lavender, Sandalwood, Bergamot",210.74,Male,4.0,75,479,1997.0
+Armani,Ocean Breeze,"Citrus, Floral, Musk",245.86,Female,4.1,200,137,2012.0
+YSL,Citrus Splash,"Lavender, Sandalwood, Bergamot",293.92,Unisex,3.3,50,161,2021.0
+Gucci,Citrus Splash,"Aquatic, Marine, Ambergris",285.7,Female,3.4,150,215,2024.0
+Givenchy,Ocean Breeze,"Fruity, Sweet, Vanilla",66.31,Male,3.5,150,267,2016.0
+Gucci,Spice Trail,"Woody, Spicy, Amber",158.05,Female,4.1,50,210,2005.0
+Tom Ford,Ocean Breeze,"Aquatic, Marine, Ambergris",82.95,Female,4.1,30,259,2024.0
+Dior,Spice Trail,"Cedarwood, Leather, Tobacco",121.25,Female,3.3,150,15,1992.0
+Chanel,Musk Haven,"Cedarwood, Leather, Tobacco",74.08,Unisex,4.0,150,460,2004.0
+Dior,Jasmine Bliss,"Cinnamon, Clove, Vetiver",205.93,Male,4.5,75,91,2016.0
+Armani,Citrus Splash,"Lavender, Sandalwood, Bergamot",45.59,Male,4.5,75,447,2001.0
+YSL,Spice Trail,"Rose, Oud, Patchouli",37.95,Unisex,3.5,200,55,1990.0
+Dior,Woody Essence,"Citrus, Floral, Musk",202.13,Female,3.3,30,13,1998.0
+Chanel,Woody Essence,"Green Tea, Mint, Lemon",105.51,Female,3.3,30,339,2005.0
+Dior,Musk Haven,"Green Tea, Mint, Lemon",289.29,Unisex,3.7,75,396,2016.0
+Hermès,Citrus Splash,"Green Tea, Mint, Lemon",162.69,Unisex,3.5,100,58,2016.0
+Hermès,Woody Essence,"Aquatic, Marine, Ambergris",157.89,Female,4.1,100,416,1995.0
+Givenchy,Citrus Splash,"Citrus, Floral, Musk",297.85,Female,4.5,30,17,2016.0
+Givenchy,Spice Trail,"Green Tea, Mint, Lemon",287.41,Unisex,3.1,200,53,2002.0
+Armani,Velvet Rose,"Aquatic, Marine, Ambergris",261.3,Male,4.2,100,166,2020.0
+Givenchy,Jasmine Bliss,"Citrus, Floral, Musk",82.56,Unisex,4.0,150,313,2014.0
+Versace,Spice Trail,"Cedarwood, Leather, Tobacco",230.86,Unisex,4.8,200,204,1999.0
+Prada,Citrus Splash,"Fruity, Sweet, Vanilla",30.87,Male,3.6,75,151,1997.0
+Hermès,Midnight Bloom,"Citrus, Floral, Musk",274.15,Female,3.5,200,351,2016.0
+Dior,Euphoria,"Lavender, Sandalwood, Bergamot",209.91,Unisex,4.8,30,145,1993.0
+Tom Ford,Woody Essence,"Lavender, Sandalwood, Bergamot",80.33,Unisex,4.2,100,150,2010.0
+Armani,Musk Haven,"Woody, Spicy, Amber",58.99,Female,3.5,30,77,2018.0
+Gucci,Amber Mystique,"Jasmine, Ylang Ylang, Vanilla",157.24,Unisex,4.5,150,418,2018.0
+Versace,Euphoria,"Aquatic, Marine, Ambergris",55.63,Unisex,3.9,100,304,2000.0
+YSL,Velvet Rose,"Woody, Spicy, Amber",153.28,Unisex,3.6,30,410,1990.0
+Armani,Euphoria,"Lavender, Sandalwood, Bergamot",251.06,Female,4.9,100,454,2023.0
+Givenchy,Euphoria,"Cinnamon, Clove, Vetiver",84.75,Male,3.1,100,447,1994.0
+Tom Ford,Musk Haven,"Rose, Oud, Patchouli",128.81,Unisex,4.1,150,493,2009.0
+Givenchy,Midnight Bloom,"Cedarwood, Leather, Tobacco",201.44,Male,4.5,75,415,1990.0
+Chanel,Euphoria,"Cedarwood, Leather, Tobacco",290.91,Unisex,4.6,200,369,1998.0
+Gucci,Euphoria,"Citrus, Floral, Musk",68.39,Female,4.2,100,22,2011.0
+Prada,Euphoria,"Rose, Oud, Patchouli",125.15,Unisex,3.8,200,332,2005.0
+Hermès,Citrus Splash,"Rose, Oud, Patchouli",64.75,Male,4.3,200,220,1999.0
+Chanel,Midnight Bloom,"Jasmine, Ylang Ylang, Vanilla",246.76,Unisex,4.3,50,186,2013.0
+YSL,Euphoria,"Green Tea, Mint, Lemon",125.88,Unisex,3.5,200,124,1993.0
+Hermès,Amber Mystique,"Green Tea, Mint, Lemon",87.32,Unisex,4.9,30,411,2005.0
+Prada,Jasmine Bliss,"Lavender, Sandalwood, Bergamot",153.1,Male,3.9,100,245,2002.0
+Chanel,Citrus Splash,"Cinnamon, Clove, Vetiver",114.32,Unisex,3.2,100,203,1993.0
+Givenchy,Velvet Rose,"Cedarwood, Leather, Tobacco",273.19,Male,5.0,30,259,2007.0
+Hermès,Velvet Rose,"Green Tea, Mint, Lemon",250.37,Female,4.0,30,277,1995.0
+Chanel,Midnight Bloom,"Jasmine, Ylang Ylang, Vanilla",150.44,Unisex,4.0,100,141,2005.0
+Hermès,Midnight Bloom,"Aquatic, Marine, Ambergris",272.5,Male,3.7,30,262,2003.0
+Armani,Citrus Splash,"Lavender, Sandalwood, Bergamot",173.6,Female,3.5,50,299,1992.0
+Armani,Midnight Bloom,"Fruity, Sweet, Vanilla",153.46,Male,3.2,75,231,1998.0
+YSL,Musk Haven,"Cinnamon, Clove, Vetiver",143.34,Unisex,4.2,50,133,2012.0
+Gucci,Velvet Rose,"Cinnamon, Clove, Vetiver",69.29,Unisex,4.4,150,425,1994.0
+Dior,Amber Mystique,"Woody, Spicy, Amber",264.4,Unisex,4.4,100,191,2023.0
+Chanel,Velvet Rose,"Cedarwood, Leather, Tobacco",187.06,Unisex,4.6,100,416,2012.0
+Hermès,Euphoria,"Lavender, Sandalwood, Bergamot",292.44,Female,4.9,30,245,2023.0
+Givenchy,Woody Essence,"Rose, Oud, Patchouli",285.01,Female,4.3,200,375,2015.0
+Dior,Citrus Splash,"Cinnamon, Clove, Vetiver",92.92,Unisex,3.2,30,489,2014.0
+YSL,Citrus Splash,"Woody, Spicy, Amber",253.58,Female,3.5,100,38,2008.0
+Chanel,Euphoria,"Lavender, Sandalwood, Bergamot",71.0,Female,5.0,100,123,2022.0
+Prada,Midnight Bloom,"Cedarwood, Leather, Tobacco",166.5,Unisex,4.9,30,275,2022.0
+Dior,Amber Mystique,"Green Tea, Mint, Lemon",94.77,Unisex,3.7,100,142,1994.0
+Prada,Velvet Rose,"Green Tea, Mint, Lemon",101.51,Female,4.3,75,460,2016.0
+Hermès,Velvet Rose,"Lavender, Sandalwood, Bergamot",67.18,Female,3.4,200,145,2012.0
+Givenchy,Midnight Bloom,"Cedarwood, Leather, Tobacco",224.03,Female,4.6,150,348,2005.0
+Hermès,Midnight Bloom,"Cedarwood, Leather, Tobacco",38.89,Female,3.8,200,258,1990.0
+Versace,Spice Trail,"Fruity, Sweet, Vanilla",283.22,Female,3.0,75,179,2007.0
+YSL,Euphoria,"Fruity, Sweet, Vanilla",214.76,Unisex,4.9,30,251,2006.0
+Tom Ford,Jasmine Bliss,"Fruity, Sweet, Vanilla",66.65,Unisex,4.8,50,219,2006.0
+Prada,Spice Trail,"Citrus, Floral, Musk",188.46,Unisex,3.8,30,35,2016.0
+Prada,Woody Essence,"Cedarwood, Leather, Tobacco",84.56,Male,3.5,200,395,2013.0
+Prada,Musk Haven,"Rose, Oud, Patchouli",282.76,Unisex,4.2,200,448,1998.0
+Gucci,Jasmine Bliss,"Aquatic, Marine, Ambergris",157.61,Male,3.9,75,402,2016.0
+Dior,Midnight Bloom,"Rose, Oud, Patchouli",249.02,Female,4.0,100,133,2012.0
+Givenchy,Ocean Breeze,"Cinnamon, Clove, Vetiver",220.67,Female,4.7,200,50,2007.0
+Versace,Musk Haven,"Jasmine, Ylang Ylang, Vanilla",74.01,Female,4.3,50,352,2000.0
+Chanel,Woody Essence,"Jasmine, Ylang Ylang, Vanilla",217.97,Unisex,4.1,75,289,2024.0
+YSL,Midnight Bloom,"Aquatic, Marine, Ambergris",122.53,Male,4.2,75,57,2016.0
+Armani,Citrus Splash,"Fruity, Sweet, Vanilla",176.63,Male,3.9,75,311,2000.0
+Chanel,Citrus Splash,"Fruity, Sweet, Vanilla",237.12,Unisex,4.4,50,215,2019.0
+Givenchy,Jasmine Bliss,"Fruity, Sweet, Vanilla",74.69,Male,3.0,100,475,2001.0
+YSL,Amber Mystique,"Aquatic, Marine, Ambergris",287.97,Female,4.9,200,410,1990.0
+Hermès,Musk Haven,"Woody, Spicy, Amber",177.78,Unisex,3.6,75,33,2021.0
+Chanel,Spice Trail,"Cinnamon, Clove, Vetiver",221.75,Male,3.1,50,459,2021.0
+Gucci,Velvet Rose,"Fruity, Sweet, Vanilla",126.36,Male,3.6,50,138,2010.0
+YSL,Midnight Bloom,"Aquatic, Marine, Ambergris",174.71,Unisex,4.3,50,177,1993.0
+Prada,Citrus Splash,"Cinnamon, Clove, Vetiver",119.37,Female,4.5,100,56,2022.0
+Tom Ford,Euphoria,"Rose, Oud, Patchouli",57.72,Unisex,4.7,150,362,2024.0
+Chanel,Velvet Rose,"Jasmine, Ylang Ylang, Vanilla",75.54,Unisex,4.2,75,144,2020.0
+Givenchy,Velvet Rose,"Cedarwood, Leather, Tobacco",88.42,Male,4.4,100,222,2024.0
+Givenchy,Euphoria,"Woody, Spicy, Amber",76.75,Female,3.3,200,193,2001.0
+Hermès,Woody Essence,"Jasmine, Ylang Ylang, Vanilla",32.09,Female,4.9,50,235,1998.0
+YSL,Ocean Breeze,"Lavender, Sandalwood, Bergamot",161.19,Female,4.6,50,476,2011.0
+Givenchy,Midnight Bloom,"Fruity, Sweet, Vanilla",255.52,Unisex,3.3,75,24,2000.0
+YSL,Woody Essence,"Cedarwood, Leather, Tobacco",129.48,Female,4.7,100,112,2009.0
+Versace,Amber Mystique,"Lavender, Sandalwood, Bergamot",189.95,Unisex,4.1,200,468,1991.0
+YSL,Jasmine Bliss,"Woody, Spicy, Amber",121.65,Female,4.4,30,376,2002.0
+Versace,Woody Essence,"Green Tea, Mint, Lemon",210.46,Unisex,3.7,50,213,2014.0
+Hermès,Ocean Breeze,"Green Tea, Mint, Lemon",197.5,Male,4.1,50,409,1992.0
+Armani,Midnight Bloom,"Lavender, Sandalwood, Bergamot",208.02,Male,4.4,50,44,2021.0
+YSL,Woody Essence,"Woody, Spicy, Amber",153.39,Female,4.4,50,192,1990.0
+YSL,Woody Essence,"Rose, Oud, Patchouli",189.87,Unisex,4.9,30,284,2017.0
+Dior,Jasmine Bliss,"Cinnamon, Clove, Vetiver",232.2,Male,4.0,150,312,1997.0
+Versace,Spice Trail,"Citrus, Floral, Musk",235.2,Unisex,4.3,150,367,2023.0
+Gucci,Velvet Rose,"Woody, Spicy, Amber",258.03,Female,4.6,50,443,1995.0
+Hermès,Woody Essence,"Rose, Oud, Patchouli",190.29,Female,3.9,50,25,2006.0
+Tom Ford,Jasmine Bliss,"Cedarwood, Leather, Tobacco",115.29,Male,4.2,200,172,2009.0
+Prada,Velvet Rose,"Green Tea, Mint, Lemon",183.19,Unisex,4.7,75,306,2005.0
+Prada,Ocean Breeze,"Cedarwood, Leather, Tobacco",284.68,Female,3.7,30,410,2008.0
+Dior,Citrus Splash,"Cedarwood, Leather, Tobacco",61.22,Female,3.2,200,40,2016.0
+Versace,Musk Haven,"Woody, Spicy, Amber",202.53,Unisex,3.9,50,123,2019.0
+Armani,Woody Essence,"Cinnamon, Clove, Vetiver",266.93,Male,3.9,100,201,2009.0
+Versace,Spice Trail,"Cedarwood, Leather, Tobacco",42.12,Female,3.8,100,326,1997.0
+Tom Ford,Citrus Splash,"Aquatic, Marine, Ambergris",68.55,Unisex,3.6,75,362,2019.0
+Dior,Jasmine Bliss,"Green Tea, Mint, Lemon",293.05,Male,3.4,200,26,2010.0
+Dior,Spice Trail,"Jasmine, Ylang Ylang, Vanilla",115.05,Male,3.4,30,442,2023.0
+Chanel,Midnight Bloom,"Woody, Spicy, Amber",207.4,Unisex,3.2,30,138,2006.0
+Armani,Euphoria,"Woody, Spicy, Amber",89.93,Unisex,3.2,75,36,1990.0
+Versace,Midnight Bloom,"Woody, Spicy, Amber",56.9,Male,4.5,30,463,2009.0
+Hermès,Velvet Rose,"Citrus, Floral, Musk",195.66,Male,4.3,30,400,2015.0
+Givenchy,Velvet Rose,"Lavender, Sandalwood, Bergamot",285.08,Unisex,4.1,75,267,2018.0
+Dior,Euphoria,"Fruity, Sweet, Vanilla",262.09,Male,4.8,50,494,2003.0
+Chanel,Ocean Breeze,"Jasmine, Ylang Ylang, Vanilla",119.95,Male,3.5,200,105,1994.0
+Armani,Musk Haven,"Aquatic, Marine, Ambergris",103.57,Unisex,4.7,150,82,1991.0
+Armani,Ocean Breeze,"Cinnamon, Clove, Vetiver",114.25,Female,4.8,50,122,2006.0
+Chanel,Spice Trail,"Lavender, Sandalwood, Bergamot",71.91,Female,3.0,150,123,2023.0
+Prada,Euphoria,"Woody, Spicy, Amber",208.75,Unisex,4.0,30,14,2024.0
+Chanel,Midnight Bloom,"Fruity, Sweet, Vanilla",172.58,Male,3.6,150,481,2004.0
+Armani,Spice Trail,"Rose, Oud, Patchouli",52.03,Unisex,4.7,200,21,1995.0
+Chanel,Jasmine Bliss,"Jasmine, Ylang Ylang, Vanilla",116.01,Female,3.8,30,342,2016.0
+Gucci,Euphoria,"Aquatic, Marine, Ambergris",201.62,Female,4.8,75,426,2011.0
+Versace,Euphoria,"Fruity, Sweet, Vanilla",48.67,Unisex,4.7,200,400,2012.0
+Givenchy,Euphoria,"Citrus, Floral, Musk",92.16,Female,4.3,30,390,1998.0
+Gucci,Citrus Splash,"Aquatic, Marine, Ambergris",276.38,Unisex,5.0,200,263,2015.0
+Tom Ford,Velvet Rose,"Rose, Oud, Patchouli",126.1,Unisex,3.4,30,400,2006.0
+Hermès,Spice Trail,"Cinnamon, Clove, Vetiver",259.18,Unisex,3.7,100,199,2011.0
+Prada,Spice Trail,"Cedarwood, Leather, Tobacco",272.69,Female,4.4,75,386,2007.0
+Tom Ford,Citrus Splash,"Cedarwood, Leather, Tobacco",79.9,Male,3.4,75,199,2016.0
+Givenchy,Midnight Bloom,"Fruity, Sweet, Vanilla",147.2,Unisex,3.6,50,381,2002.0
+Tom Ford,Ocean Breeze,"Cedarwood, Leather, Tobacco",75.19,Unisex,3.9,75,158,2000.0
+Tom Ford,Ocean Breeze,"Woody, Spicy, Amber",83.43,Unisex,3.4,200,492,2011.0
+Gucci,Euphoria,"Aquatic, Marine, Ambergris",235.33,Male,4.6,50,330,1999.0
+Gucci,Velvet Rose,"Woody, Spicy, Amber",187.1,Female,4.0,75,0,2014.0
+Dior,Jasmine Bliss,"Citrus, Floral, Musk",94.4,Unisex,3.6,100,363,1994.0
+Armani,Jasmine Bliss,"Citrus, Floral, Musk",159.36,Male,4.3,100,420,2002.0
+Versace,Ocean Breeze,"Rose, Oud, Patchouli",295.8,Female,4.5,200,131,2001.0
+Givenchy,Euphoria,"Cinnamon, Clove, Vetiver",39.15,Male,3.0,50,467,2013.0
+Hermès,Woody Essence,"Woody, Spicy, Amber",295.22,Female,4.7,50,248,2016.0
+Tom Ford,Midnight Bloom,"Woody, Spicy, Amber",161.31,Male,4.1,150,365,2015.0
+Tom Ford,Ocean Breeze,"Woody, Spicy, Amber",85.95,Male,3.2,200,239,1998.0
+Armani,Midnight Bloom,"Cedarwood, Leather, Tobacco",91.19,Male,3.8,75,451,1993.0
+Givenchy,Citrus Splash,"Cinnamon, Clove, Vetiver",281.44,Female,4.9,150,358,2011.0
+Prada,Jasmine Bliss,"Lavender, Sandalwood, Bergamot",284.31,Female,3.4,30,134,1990.0
+Prada,Jasmine Bliss,"Rose, Oud, Patchouli",267.84,Unisex,3.9,200,472,2020.0
+Dior,Jasmine Bliss,"Rose, Oud, Patchouli",137.83,Unisex,3.6,200,345,2022.0
+YSL,Woody Essence,"Fruity, Sweet, Vanilla",245.43,Unisex,3.1,150,270,2006.0
+Armani,Euphoria,"Woody, Spicy, Amber",139.5,Unisex,3.2,50,14,2013.0
+Tom Ford,Citrus Splash,"Rose, Oud, Patchouli",106.42,Male,3.5,100,36,1998.0
+Prada,Amber Mystique,"Citrus, Floral, Musk",92.48,Unisex,4.2,75,324,2021.0
+Tom Ford,Ocean Breeze,"Jasmine, Ylang Ylang, Vanilla",262.48,Female,4.2,75,468,2012.0
+Dior,Spice Trail,"Fruity, Sweet, Vanilla",159.5,Male,4.5,75,140,2016.0
+Versace,Citrus Splash,"Citrus, Floral, Musk",195.7,Female,4.0,50,466,2013.0
+Chanel,Midnight Bloom,"Citrus, Floral, Musk",222.88,Unisex,4.4,50,382,2024.0
+Dior,Jasmine Bliss,"Green Tea, Mint, Lemon",264.67,Unisex,3.5,50,157,2008.0
+Armani,Spice Trail,"Cedarwood, Leather, Tobacco",153.43,Male,4.3,200,436,2024.0
+Tom Ford,Jasmine Bliss,"Green Tea, Mint, Lemon",118.57,Female,4.6,150,212,2013.0
+Prada,Musk Haven,"Lavender, Sandalwood, Bergamot",180.23,Unisex,3.9,150,75,1996.0
+Armani,Ocean Breeze,"Cedarwood, Leather, Tobacco",83.37,Female,4.2,150,332,2016.0
+Givenchy,Amber Mystique,"Cedarwood, Leather, Tobacco",171.57,Female,3.3,100,273,1996.0
+Prada,Velvet Rose,"Cinnamon, Clove, Vetiver",298.38,Unisex,3.8,100,30,1996.0
+Prada,Velvet Rose,"Green Tea, Mint, Lemon",79.27,Unisex,3.6,200,69,2017.0
+Prada,Spice Trail,"Rose, Oud, Patchouli",64.1,Female,4.2,200,249,2003.0
+YSL,Amber Mystique,"Cedarwood, Leather, Tobacco",123.65,Female,3.9,50,44,2021.0
+Armani,Amber Mystique,"Green Tea, Mint, Lemon",284.95,Male,3.2,30,313,2024.0
+Prada,Euphoria,"Aquatic, Marine, Ambergris",104.75,Unisex,4.2,50,478,2023.0
+Chanel,Amber Mystique,"Aquatic, Marine, Ambergris",107.08,Male,4.9,75,38,1994.0
+Givenchy,Spice Trail,"Cinnamon, Clove, Vetiver",289.26,Unisex,4.4,75,213,2015.0
+Armani,Musk Haven,"Rose, Oud, Patchouli",238.73,Unisex,3.2,200,221,2017.0
+Dior,Euphoria,"Citrus, Floral, Musk",244.57,Female,4.7,150,362,1991.0
+Dior,Amber Mystique,"Woody, Spicy, Amber",294.79,Male,3.2,200,171,2017.0
+Versace,Jasmine Bliss,"Fruity, Sweet, Vanilla",81.57,Female,5.0,200,297,2003.0
+Hermès,Woody Essence,"Citrus, Floral, Musk",129.75,Unisex,4.0,30,188,1999.0
+Prada,Citrus Splash,"Fruity, Sweet, Vanilla",212.95,Male,3.5,30,73,2016.0
+Givenchy,Spice Trail,"Lavender, Sandalwood, Bergamot",47.98,Unisex,3.4,150,6,2004.0
+Prada,Spice Trail,"Aquatic, Marine, Ambergris",78.73,Male,4.4,30,191,2014.0
+Givenchy,Woody Essence,"Fruity, Sweet, Vanilla",69.96,Male,3.5,100,380,2013.0
+Chanel,Ocean Breeze,"Aquatic, Marine, Ambergris",287.25,Male,4.6,30,306,2014.0
+Chanel,Ocean Breeze,"Woody, Spicy, Amber",129.35,Unisex,3.4,30,231,2023.0
+Chanel,Velvet Rose,"Fruity, Sweet, Vanilla",177.89,Unisex,4.1,200,482,2004.0
+Versace,Musk Haven,"Cinnamon, Clove, Vetiver",83.04,Unisex,4.6,200,37,1998.0
+Hermès,Velvet Rose,"Cedarwood, Leather, Tobacco",113.58,Male,4.0,75,389,2001.0
+Tom Ford,Velvet Rose,"Jasmine, Ylang Ylang, Vanilla",231.5,Unisex,4.7,50,430,2016.0
+Chanel,Velvet Rose,"Citrus, Floral, Musk",119.13,Male,3.8,30,112,2001.0
+Versace,Spice Trail,"Citrus, Floral, Musk",140.27,Female,3.5,200,180,2019.0
+YSL,Amber Mystique,"Fruity, Sweet, Vanilla",176.69,Unisex,4.7,100,135,2005.0
+Gucci,Spice Trail,"Green Tea, Mint, Lemon",186.9,Female,3.5,50,367,2012.0
+Armani,Ocean Breeze,"Jasmine, Ylang Ylang, Vanilla",185.12,Male,4.0,50,210,1999.0
+Givenchy,Ocean Breeze,"Cinnamon, Clove, Vetiver",128.58,Male,3.3,75,185,2011.0
+Hermès,Velvet Rose,"Lavender, Sandalwood, Bergamot",41.08,Unisex,3.7,150,80,2009.0
+Tom Ford,Euphoria,"Cedarwood, Leather, Tobacco",112.21,Male,4.2,50,415,1990.0
+Hermès,Velvet Rose,"Fruity, Sweet, Vanilla",225.27,Unisex,3.9,100,93,1998.0
+Gucci,Midnight Bloom,"Cinnamon, Clove, Vetiver",186.15,Male,3.1,75,62,2011.0
+Gucci,Midnight Bloom,"Fruity, Sweet, Vanilla",50.32,Female,4.9,150,47,2024.0
+Armani,Amber Mystique,"Woody, Spicy, Amber",40.65,Male,4.6,200,383,1996.0
+Chanel,Woody Essence,"Citrus, Floral, Musk",231.06,Unisex,3.9,200,331,1997.0
+Dior,Jasmine Bliss,"Fruity, Sweet, Vanilla",157.02,Female,4.6,200,353,2000.0
+YSL,Midnight Bloom,"Jasmine, Ylang Ylang, Vanilla",185.29,Male,3.3,100,449,2012.0
+Versace,Citrus Splash,"Cedarwood, Leather, Tobacco",51.59,Unisex,4.7,50,95,2023.0
+Prada,Woody Essence,"Citrus, Floral, Musk",248.12,Unisex,4.1,30,202,2007.0
+Dior,Midnight Bloom,"Woody, Spicy, Amber",169.47,Unisex,4.2,200,45,1991.0
+Armani,Midnight Bloom,"Jasmine, Ylang Ylang, Vanilla",209.4,Unisex,4.4,150,303,2000.0
+Versace,Jasmine Bliss,"Woody, Spicy, Amber",268.69,Unisex,4.2,50,352,2006.0
+Dior,Woody Essence,"Woody, Spicy, Amber",209.44,Female,5.0,30,489,2017.0
+Versace,Jasmine Bliss,"Fruity, Sweet, Vanilla",62.65,Unisex,3.8,200,303,2013.0
+YSL,Amber Mystique,"Rose, Oud, Patchouli",108.27,Unisex,3.1,30,298,2000.0
+Dior,Euphoria,"Lavender, Sandalwood, Bergamot",259.33,Unisex,4.9,30,307,2019.0
+Chanel,Velvet Rose,"Jasmine, Ylang Ylang, Vanilla",102.04,Unisex,4.9,75,156,1997.0
+Chanel,Velvet Rose,"Fruity, Sweet, Vanilla",161.12,Female,4.5,75,11,2001.0
+Armani,Ocean Breeze,"Fruity, Sweet, Vanilla",200.3,Female,4.0,50,125,2018.0
+Dior,Spice Trail,"Woody, Spicy, Amber",63.67,Male,3.4,75,133,2008.0
+YSL,Musk Haven,"Woody, Spicy, Amber",278.6,Male,4.4,150,188,1994.0
+YSL,Jasmine Bliss,"Lavender, Sandalwood, Bergamot",255.2,Female,3.4,100,440,2012.0
+Dior,Euphoria,"Aquatic, Marine, Ambergris",229.48,Male,3.8,200,251,1995.0
+Versace,Spice Trail,"Jasmine, Ylang Ylang, Vanilla",233.42,Male,3.7,75,491,1999.0
+Armani,Spice Trail,"Aquatic, Marine, Ambergris",95.16,Male,4.0,30,275,2003.0
+YSL,Amber Mystique,"Citrus, Floral, Musk",233.33,Male,3.4,100,239,2007.0
+Chanel,Euphoria,"Aquatic, Marine, Ambergris",147.35,Male,3.9,100,75,1997.0
+Versace,Citrus Splash,"Fruity, Sweet, Vanilla",123.02,Female,3.1,30,93,1999.0
+Tom Ford,Woody Essence,"Jasmine, Ylang Ylang, Vanilla",136.99,Unisex,3.3,50,59,2023.0
+Tom Ford,Midnight Bloom,"Green Tea, Mint, Lemon",280.28,Female,3.3,50,154,2015.0
+Versace,Midnight Bloom,"Jasmine, Ylang Ylang, Vanilla",254.58,Female,4.3,30,307,2002.0
+Chanel,Woody Essence,"Aquatic, Marine, Ambergris",35.02,Female,3.6,200,21,2024.0
+YSL,Spice Trail,"Cedarwood, Leather, Tobacco",289.67,Unisex,4.1,200,335,2004.0
+YSL,Jasmine Bliss,"Lavender, Sandalwood, Bergamot",166.71,Female,3.9,100,14,2002.0
+YSL,Jasmine Bliss,"Lavender, Sandalwood, Bergamot",269.26,Unisex,3.6,50,344,2010.0
+YSL,Spice Trail,"Cedarwood, Leather, Tobacco",221.7,Male,3.7,30,460,1992.0
+Tom Ford,Velvet Rose,"Fruity, Sweet, Vanilla",96.33,Unisex,3.1,100,69,2003.0
+Prada,Jasmine Bliss,"Aquatic, Marine, Ambergris",81.78,Male,4.9,100,178,1999.0
+Armani,Spice Trail,"Jasmine, Ylang Ylang, Vanilla",105.85,Male,3.4,30,156,2000.0
+Hermès,Spice Trail,"Fruity, Sweet, Vanilla",84.46,Unisex,3.7,150,129,2012.0
+Versace,Spice Trail,"Green Tea, Mint, Lemon",229.35,Unisex,3.8,150,25,2018.0
+Chanel,Woody Essence,"Cinnamon, Clove, Vetiver",42.07,Female,3.4,30,207,1991.0
+Prada,Midnight Bloom,"Cinnamon, Clove, Vetiver",270.63,Male,4.1,50,264,2011.0
+YSL,Euphoria,"Woody, Spicy, Amber",181.58,Unisex,4.0,150,12,2017.0
+YSL,Ocean Breeze,"Aquatic, Marine, Ambergris",55.77,Female,3.9,150,370,2015.0
+Prada,Citrus Splash,"Green Tea, Mint, Lemon",77.84,Male,3.2,75,275,2004.0
+Dior,Ocean Breeze,"Citrus, Floral, Musk",225.02,Male,3.3,200,225,1998.0
+Hermès,Spice Trail,"Jasmine, Ylang Ylang, Vanilla",261.65,Unisex,3.6,50,397,2019.0
+Prada,Velvet Rose,"Aquatic, Marine, Ambergris",99.16,Unisex,3.2,100,475,2013.0
+Tom Ford,Amber Mystique,"Cinnamon, Clove, Vetiver",181.33,Male,3.2,150,498,2002.0
+Dior,Woody Essence,"Cedarwood, Leather, Tobacco",72.57,Male,4.3,50,243,1991.0
+Givenchy,Euphoria,"Woody, Spicy, Amber",114.69,Unisex,4.9,200,432,2007.0
+Versace,Spice Trail,"Citrus, Floral, Musk",94.81,Unisex,3.6,200,313,2020.0
+Hermès,Midnight Bloom,"Green Tea, Mint, Lemon",211.49,Male,4.6,30,480,2012.0
+Givenchy,Musk Haven,"Fruity, Sweet, Vanilla",262.12,Unisex,4.0,200,38,2021.0
+Tom Ford,Musk Haven,"Fruity, Sweet, Vanilla",61.62,Unisex,4.8,50,273,2005.0
+Gucci,Euphoria,"Cedarwood, Leather, Tobacco",158.26,Unisex,4.4,150,9,2017.0
+Tom Ford,Woody Essence,"Woody, Spicy, Amber",34.57,Male,3.4,150,95,2019.0
+YSL,Musk Haven,"Green Tea, Mint, Lemon",253.01,Female,4.6,100,192,2010.0
+Armani,Spice Trail,"Jasmine, Ylang Ylang, Vanilla",132.45,Unisex,4.2,150,235,2021.0
+YSL,Ocean Breeze,"Lavender, Sandalwood, Bergamot",70.04,Unisex,4.1,150,315,2016.0
+Tom Ford,Spice Trail,"Rose, Oud, Patchouli",178.34,Male,4.7,30,132,1999.0
+Versace,Woody Essence,"Cedarwood, Leather, Tobacco",263.89,Unisex,3.6,30,464,2016.0
+Givenchy,Citrus Splash,"Cedarwood, Leather, Tobacco",286.41,Unisex,4.5,75,262,2022.0
+Givenchy,Musk Haven,"Lavender, Sandalwood, Bergamot",49.92,Male,4.0,200,490,2004.0
+Chanel,Ocean Breeze,"Cinnamon, Clove, Vetiver",256.42,Male,4.6,200,399,1995.0
+Gucci,Ocean Breeze,"Green Tea, Mint, Lemon",129.79,Female,4.4,100,169,2003.0
+Gucci,Velvet Rose,"Fruity, Sweet, Vanilla",120.71,Male,3.3,30,2,2002.0
+YSL,Amber Mystique,"Cinnamon, Clove, Vetiver",131.84,Male,4.2,200,151,2006.0
+Givenchy,Midnight Bloom,"Rose, Oud, Patchouli",144.69,Female,4.7,75,12,2021.0
+Armani,Jasmine Bliss,"Cedarwood, Leather, Tobacco",237.72,Female,3.5,100,50,1994.0
+Prada,Velvet Rose,"Citrus, Floral, Musk",126.58,Female,3.6,50,121,2004.0
+YSL,Spice Trail,"Green Tea, Mint, Lemon",231.24,Male,3.9,200,299,2022.0
+YSL,Euphoria,"Rose, Oud, Patchouli",133.63,Unisex,3.1,100,384,2018.0
+Gucci,Woody Essence,"Cinnamon, Clove, Vetiver",65.55,Male,4.7,100,202,2006.0
+Givenchy,Midnight Bloom,"Lavender, Sandalwood, Bergamot",188.15,Female,4.7,150,493,2006.0
+Givenchy,Midnight Bloom,"Woody, Spicy, Amber",156.53,Male,3.6,200,212,2007.0
+Gucci,Ocean Breeze,"Woody, Spicy, Amber",129.72,Male,3.2,100,449,1998.0
+Givenchy,Velvet Rose,"Cinnamon, Clove, Vetiver",216.8,Unisex,3.5,30,348,2001.0
+Prada,Musk Haven,"Aquatic, Marine, Ambergris",169.18,Male,4.6,75,397,2007.0
+Prada,Spice Trail,"Citrus, Floral, Musk",129.77,Male,3.5,100,63,1991.0
+Prada,Euphoria,"Cinnamon, Clove, Vetiver",298.02,Unisex,3.3,100,408,2005.0
+Prada,Velvet Rose,"Rose, Oud, Patchouli",68.96,Male,3.5,30,482,2012.0
+Versace,Citrus Splash,"Aquatic, Marine, Ambergris",263.68,Male,3.3,200,162,2015.0
+Versace,Ocean Breeze,"Woody, Spicy, Amber",227.73,Unisex,3.6,200,35,2001.0
+Dior,Velvet Rose,"Fruity, Sweet, Vanilla",187.23,Female,3.6,75,424,2002.0
+Tom Ford,Euphoria,"Aquatic, Marine, Ambergris",82.18,Unisex,4.9,75,354,2000.0
+Hermès,Amber Mystique,"Cinnamon, Clove, Vetiver",271.23,Unisex,4.4,50,224,2013.0
+Hermès,Midnight Bloom,"Citrus, Floral, Musk",267.38,Female,3.9,150,250,2006.0
+Tom Ford,Midnight Bloom,"Citrus, Floral, Musk",85.73,Unisex,4.8,100,486,1993.0
+YSL,Citrus Splash,"Aquatic, Marine, Ambergris",178.99,Male,4.5,150,180,2000.0
+Dior,Musk Haven,"Green Tea, Mint, Lemon",185.35,Unisex,4.7,75,193,2015.0
+Dior,Velvet Rose,"Green Tea, Mint, Lemon",138.45,Unisex,3.8,100,289,2019.0
+YSL,Citrus Splash,"Green Tea, Mint, Lemon",64.55,Female,4.3,30,33,2009.0
+Givenchy,Woody Essence,"Cedarwood, Leather, Tobacco",260.65,Male,3.9,150,463,2018.0
+YSL,Velvet Rose,"Rose, Oud, Patchouli",174.42,Female,4.2,150,63,2021.0
+Dior,Woody Essence,"Cinnamon, Clove, Vetiver",165.68,Unisex,3.7,150,334,2021.0
+Armani,Woody Essence,"Rose, Oud, Patchouli",208.45,Male,3.6,150,307,1996.0
+Givenchy,Ocean Breeze,"Jasmine, Ylang Ylang, Vanilla",78.67,Unisex,4.6,30,166,2010.0
+Tom Ford,Jasmine Bliss,"Lavender, Sandalwood, Bergamot",224.05,Unisex,4.2,100,140,1999.0
+Prada,Woody Essence,"Woody, Spicy, Amber",224.63,Female,3.5,100,204,2012.0
+Dior,Musk Haven,"Rose, Oud, Patchouli",151.93,Female,3.1,150,244,2024.0
+Dior,Spice Trail,"Rose, Oud, Patchouli",204.31,Male,4.6,150,406,2004.0
+Hermès,Ocean Breeze,"Green Tea, Mint, Lemon",244.73,Unisex,4.7,30,375,1997.0
+Gucci,Euphoria,"Fruity, Sweet, Vanilla",78.46,Female,3.6,50,302,1991.0
+Hermès,Citrus Splash,"Jasmine, Ylang Ylang, Vanilla",106.47,Unisex,5.0,150,60,2003.0
+YSL,Woody Essence,"Jasmine, Ylang Ylang, Vanilla",201.3,Female,3.5,75,373,2004.0
+Armani,Velvet Rose,"Jasmine, Ylang Ylang, Vanilla",279.62,Male,3.6,100,58,2002.0
+Gucci,Euphoria,"Cinnamon, Clove, Vetiver",36.27,Unisex,3.9,150,99,2009.0
+Versace,Spice Trail,"Rose, Oud, Patchouli",247.3,Unisex,4.3,200,253,2024.0
+YSL,Jasmine Bliss,"Fruity, Sweet, Vanilla",170.35,Unisex,3.4,100,136,2010.0
+Givenchy,Jasmine Bliss,"Woody, Spicy, Amber",138.91,Female,4.6,50,233,2011.0
+Gucci,Musk Haven,"Cedarwood, Leather, Tobacco",271.14,Male,3.3,200,112,2015.0
+Versace,Midnight Bloom,"Fruity, Sweet, Vanilla",185.15,Unisex,4.1,30,440,1998.0
+Tom Ford,Midnight Bloom,"Rose, Oud, Patchouli",58.77,Unisex,4.6,150,305,1993.0
+YSL,Jasmine Bliss,"Rose, Oud, Patchouli",242.36,Male,3.9,30,375,1999.0
+Prada,Amber Mystique,"Cinnamon, Clove, Vetiver",142.48,Female,4.1,100,160,2001.0
+Prada,Musk Haven,"Jasmine, Ylang Ylang, Vanilla",273.0,Male,4.3,50,78,2000.0
+YSL,Midnight Bloom,"Lavender, Sandalwood, Bergamot",126.09,Male,3.1,50,62,2018.0
+Hermès,Euphoria,"Rose, Oud, Patchouli",30.99,Unisex,4.4,100,348,2017.0
+YSL,Citrus Splash,"Cinnamon, Clove, Vetiver",69.17,Unisex,3.6,75,375,2013.0
+Gucci,Ocean Breeze,"Rose, Oud, Patchouli",227.4,Unisex,4.7,50,166,2009.0
+Prada,Spice Trail,"Citrus, Floral, Musk",204.85,Male,3.6,200,125,2023.0
+YSL,Velvet Rose,"Woody, Spicy, Amber",156.14,Male,4.3,30,225,2010.0
+Prada,Ocean Breeze,"Green Tea, Mint, Lemon",118.45,Unisex,4.5,200,495,1992.0
