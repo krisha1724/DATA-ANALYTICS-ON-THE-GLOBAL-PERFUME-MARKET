@@ -1,129 +1,184 @@
-1. Introduction:
+Perfume Pricing Analysis & Prediction Using Data Science
+1. Introduction
+The global perfume industry is a multi-billion-dollar market influenced by evolving consumer preferences, brand identity, pricing strategies, and scent trends. This project leverages data science techniques such as exploratory data analysis (EDA), trend identification, and predictive modeling to uncover patterns in the perfume market.
 
-The global perfume industry is a multi-billion-dollar market shaped by consumer preferences, brand reputation, and pricing strategies. Using data science techniques such as data analysis, trend identification, and predictive modelling, this dataset helps explore key factors influencing the perfume market. It includes details like brand, perfume name, rating, price (USD), gender target, bottle size (ml), launch year, stock quantity, and fragrance notes to provide valuable insights.
+The dataset includes details like:
 
-By applying statistical analysis and machine learning models, we can uncover patterns in consumer purchasing behaviour, pricing strategies, and fragrance trends. Through feature engineering, we can analyse relationships between fragrance notes and consumer ratings or the impact of launch year on sales performance. These insights help businesses refine pricing strategies, improve inventory management, and stay competitive in the fragrance industry.
+Brand
 
-This data-driven approach allows businesses to use demand forecasting, customer segmentation, and competitive analysis for better decision-making. Using visualization tools like Matplotlib and Seaborn, we can present key findings in a clear and actionable manner.
+Perfume Name
 
-2.Problem Definition & Dataset Selection
+Rating
 
-Problem Definition of Project:
+Price (USD)
 
-The perfume industry is highly competitive, with brands constantly adjusting pricing, marketing strategies, and inventory to meet consumer demand. However, businesses often struggle to set optimal prices due to fluctuating market trends, consumer preferences, and other influencing factors. Incorrect pricing can lead to lost revenue, overstocking or understocking, and reduced customer satisfaction.
+Gender Target
 
-To make informed decisions, businesses need a data-driven approach to analyze pricing trends, fragrance preferences, and product availability. This project aims to examine the perfume market, focusing on factors that influence pricing, ratings, and stock availability. By leveraging analytical techniques, we can help businesses optimize their strategies for pricing, inventory management, and marketing.
+Bottle Size (ml)
 
-Problem Statement of Dataset: 
+Launch Year
 
-The perfume market consists of a wide variety of brands, scents, and pricing strategies. Companies often struggle to determine the right price point for their products, as multiple factors—such as brand reputation, fragrance composition, bottle size, and consumer ratings—play a role in consumer purchasing decisions. Without a structured approach, pricing decisions may rely on intuition rather than concrete data, leading to inefficiencies in sales and inventory management.
+Stock Quantity
 
-This project will analyze and predict perfume pricing using a dataset containing attributes such as brand, perfume name, rating, price (USD), gender, bottle size (ml), launch year, stock quantity, and fragrance notes. The key objectives include:
+Fragrance Notes
 
-1.	Identifying the factors that influence perfume pricing.
+Using libraries like Pandas, Seaborn, and Matplotlib, we present actionable insights to guide business strategies in pricing, marketing, and inventory management.
 
-2.	Exploring consumer preferences based on ratings, fragrance notes, and gender categories.
+2. Problem Definition & Dataset Selection
+Problem Statement:
+Businesses in the perfume industry face challenges in optimal pricing due to fluctuating trends, customer preferences, and inventory complexities. Misjudging these elements can lead to overstock, understock, or pricing inefficiencies.
 
-3.	Analyzing stock quantity trends to understand demand and supply dynamics.
+This project aims to:
 
-4.	Examining historical trends in perfume launches and their impact on pricing.
+Examine key attributes affecting pricing, rating, and availability.
 
-5.	Developing insights to help businesses optimize pricing strategies and inventory management.
+Predict ideal price points using data-driven methods.
 
-The ultimate goal is to provide data-driven insights that help businesses enhance their market position and improve revenue generation while ensuring fair pricing for consumers.
+Assist businesses in optimizing stock levels and pricing for better profitability.
 
+3. Objectives
+Understand Factors Influencing Perfume Prices
 
-Objectives of Dataset:
+Analyze how brand, fragrance notes, bottle size, and gender affect pricing.
 
-1. Understand the Factors Influencing Perfume Prices
-o	Analyze how attributes like brand, fragrance notes, bottle size, and gender category affect price (USD).
-o	Identify which variables have the strongest correlation with pricing.
+Determine key attributes that most strongly correlate with price.
 
-2. Explore Consumer Preferences and Ratings
-o	Investigate the relationship between consumer ratings and perfume pricing.
-o	Determine if higher-rated perfumes tend to have higher prices and better sales.
+Explore Consumer Preferences
 
-3. Analyze Inventory and Demand Trends
-o	Examine stock quantity to understand supply and demand variations.
-o	Identify whether certain brands or fragrance types are frequently out of stock.
+Analyze the relationship between ratings, fragrance notes, and gender-based targeting.
 
-4. Evaluate Historical Trends in the Perfume Industry
-o	Explore how launch years affect pricing and popularity.
-o	Identify whether older or newer perfumes have a pricing advantage.
+Determine if higher-rated perfumes command higher prices or popularity.
 
-5. Perform Feature Engineering
-o	Create new features such as perfume age (current year - launch year) to enhance analysis.
-o	Convert categorical variables (e.g., fragrance notes, gender, brand) into numerical formats for machine learning.
+Inventory and Demand Trends
 
-6. Provide Actionable Insights for Businesses
-o	Offer recommendations for pricing strategies based on data analysis.
-o	Identify underperforming or overstocked perfumes that may need better marketing or discounting strategies.
+Study stock quantity to identify in-demand perfumes and supply shortages.
 
-7. Visualize Key Market Trends
-o	Create charts and graphs to display trends in pricing, stock availability, and fragrance popularity.
+Understand which brands/products frequently go out of stock.
 
-Use data visualization tools like Matplotlib and Seaborn to present findings effectively.
+Historical Launch Analysis
 
-Dataset Variables:
+Investigate how launch year affects perfume popularity and pricing.
 
-The dataset includes key variables that influence perfume pricing, consumer ratings, and inventory management.
+Determine whether older or newer perfumes are more expensive or sought after.
 
-1. Brand & Perfume Name
-o	The manufacturer and specific perfume product (e.g., Chanel No. 5, Dior Sauvage).
-o	Helps analyze brand reputation and its impact on pricing.
+Feature Engineering
 
-2. Rating
-o	Consumer rating of the perfume (e.g., 4.5, 3.8, 5.0).
-o	Indicates customer satisfaction and its potential effect on pricing and sales.
+Create new features like Perfume Age = Current Year - Launch Year.
 
-3. Price (USD)
-o	The retail price of the perfume (e.g., $50, $120, $250).
-o	The target variable for pricing analysis and optimization.
+One-hot encode categorical variables (brand, gender, fragrance category).
 
-4. Gender
-o	Indicates whether the perfume is marketed as male, female, or unisex.
-o	Helps analyze how gender-based targeting affects consumer choices and pricing.
+Actionable Business Insights
 
-5. Bottle Size (ml)
-o	The volume of the perfume bottle (e.g., 30ml, 50ml, 100ml).
-o	Affects pricing strategies and consumer preferences.
+Recommend pricing and stock strategies.
 
-6. Launch Year
-o	The year the perfume was introduced (e.g., 1995, 2010, 2022).
-o	Used to assess the impact of product age on pricing and demand.
+Identify products for discounting, promotions, or restocking.
 
-7. Stock Quantity
-o	The number of available units for each perfume.
-o	Helps evaluate supply and demand dynamics in the market.
+Visualize Market Trends
 
-8. Fragrance Notes
-o	Key scent components of the perfume (e.g., citrus, floral, woody, musky).
-Used to analyze trends in consumer fragrance preferences and how they affect pricing.
-Dataset Attributes:
-1. Fragrance Category
-o	The general scent profile of the perfume (e.g., Fresh, Oriental, Woody, Floral).
-o	Helps categorize perfumes based on common fragrance families.
+Use graphs and charts (Matplotlib, Seaborn) for key findings.
 
-2. Price Range Classification
-o	Categorizes perfumes into different pricing segments (e.g., Budget, Mid-range, Luxury).
-o	Useful for identifying market positioning and consumer affordability trends.
+Create visual dashboards and EDA plots.
 
-3. Brand Popularity Score
-o	A computed metric based on average rating and total reviews for a brand’s perfumes.
+4. Dataset Overview
+Key Variables:
 
-Helps compare brand reputation and consumer trust.
-Dataset Types:
-1. Numerical Variables
-o	Represent quantitative data used for statistical analysis and modeling.
-o	Examples: Price (USD), Rating, Stock Quantity, Bottle Size (ml), Launch Year.
-2. Categorical Variables
-o	Represent qualitative data used for grouping and comparison.
-o	Examples: Brand, Gender, Fragrance Notes, Fragrance Category.
-3. Target Variable
-o	The dependent variable used for prediction.
-o	Example: Price (USD).
+Feature	Description
+Brand	Manufacturer name
+Perfume Name	Product name
+Rating	Average consumer rating
+Price (USD)	Target variable for prediction
+Gender	Male, Female, or Unisex targeting
+Bottle Size (ml)	Volume of perfume
+Launch Year	Year of launch
+Stock Quantity	Available units
+Fragrance Notes	Main scent descriptors (e.g., floral, woody)
+Engineered/Derived Attributes:
+Fragrance Category – grouped scent family (Floral, Woody, Oriental, etc.)
 
-By understanding these variables and their relationships, we can:
-•	Conduct Exploratory Data Analysis (EDA) to uncover market trends.
-•	Engineer new features such as perfume age (current year - launch year) to improve analysis.
-•	Develop a predictive model to estimate perfume pricing accurately.
+Perfume Age – Years since launch
+
+Price Range – Budget, Mid-range, Luxury
+
+Brand Popularity Score – Based on ratings & reviews
+
+5. Tasks & Methodology
+Task 1: Data Understanding & Problem Framing
+Define goals & KPIs
+
+Understand variable types and dependencies
+
+Task 2: Data Collection & Preprocessing
+Import dataset (CSV, JSON, or API)
+
+Handle missing/null values
+
+Drop duplicates
+
+Clean and normalize categorical entries
+
+Task 3: Data Summarization & Descriptive Analysis
+Mean, Median, Mode, Variance, Standard Deviation
+
+Frequency distribution and cross-tabulation
+
+Task 4: Data Visualization & Outlier Detection
+Use:
+
+Histograms
+
+Box plots
+
+Scatter plots
+
+Correlation heatmaps
+
+Detect outliers and anomalies
+
+Task 5: Data Transformation & Feature Engineering
+Encode categorical features
+
+Create new derived attributes (e.g., perfume age)
+
+Normalize numerical fields (if needed)
+
+Task 6: Time Series & Trend Analysis (If Applicable)
+Explore time-dependent trends using Launch Year vs Price, Rating, Stock
+
+Identify seasonal patterns in perfume launches or stock availability
+
+Visualize year-wise trends using line plots or bar graphs
+
+6. Dataset Variable Types
+Numerical: Price, Rating, Bottle Size, Stock Quantity, Launch Year
+
+Categorical: Brand, Gender, Fragrance Notes, Fragrance Category
+
+Target Variable: Price (USD)
+
+7. Model Building (Next Phase – Optional)
+Regression (Linear, Ridge, Lasso)
+
+Decision Trees / Random Forest
+
+Feature Importance Analysis
+
+Model Evaluation (RMSE, R², MAE)
+
+8. Key Findings (To Be Summarized After EDA & Modeling)
+Correlation between rating and price
+
+Gender-based pricing trends
+
+Brands with frequent stockouts
+
+Perfume age vs popularity/pricing
+
+9. Ethical Considerations
+Privacy & Anonymity: Ensure no personal consumer data is exposed.
+
+Bias & Fairness: Avoid reinforcing gender stereotypes or brand favoritism in model output.
+
+Data Integrity: Validate source credibility and correctness before drawing conclusions.
+
+Transparency: Ensure business stakeholders understand the data limitations and assumptions.
+
